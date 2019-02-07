@@ -1,0 +1,2724 @@
+fileFormatVersion: 2
+guid: 1c615a07e314c452e9a6ace9525d9e6a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 100_food_sprites_by_neoriceisgood_d5rl3l4_0
+    21300002: 100_food_sprites_by_neoriceisgood_d5rl3l4_1
+    21300004: 100_food_sprites_by_neoriceisgood_d5rl3l4_2
+    21300006: 100_food_sprites_by_neoriceisgood_d5rl3l4_3
+    21300008: 100_food_sprites_by_neoriceisgood_d5rl3l4_4
+    21300010: 100_food_sprites_by_neoriceisgood_d5rl3l4_5
+    21300012: 100_food_sprites_by_neoriceisgood_d5rl3l4_6
+    21300014: 100_food_sprites_by_neoriceisgood_d5rl3l4_7
+    21300016: 100_food_sprites_by_neoriceisgood_d5rl3l4_8
+    21300018: 100_food_sprites_by_neoriceisgood_d5rl3l4_9
+    21300020: 100_food_sprites_by_neoriceisgood_d5rl3l4_10
+    21300022: 100_food_sprites_by_neoriceisgood_d5rl3l4_11
+    21300024: 100_food_sprites_by_neoriceisgood_d5rl3l4_12
+    21300026: 100_food_sprites_by_neoriceisgood_d5rl3l4_13
+    21300028: 100_food_sprites_by_neoriceisgood_d5rl3l4_14
+    21300030: 100_food_sprites_by_neoriceisgood_d5rl3l4_15
+    21300032: 100_food_sprites_by_neoriceisgood_d5rl3l4_16
+    21300034: 100_food_sprites_by_neoriceisgood_d5rl3l4_17
+    21300036: 100_food_sprites_by_neoriceisgood_d5rl3l4_18
+    21300038: 100_food_sprites_by_neoriceisgood_d5rl3l4_19
+    21300040: 100_food_sprites_by_neoriceisgood_d5rl3l4_20
+    21300042: 100_food_sprites_by_neoriceisgood_d5rl3l4_21
+    21300044: 100_food_sprites_by_neoriceisgood_d5rl3l4_22
+    21300046: 100_food_sprites_by_neoriceisgood_d5rl3l4_23
+    21300048: 100_food_sprites_by_neoriceisgood_d5rl3l4_24
+    21300050: 100_food_sprites_by_neoriceisgood_d5rl3l4_25
+    21300052: 100_food_sprites_by_neoriceisgood_d5rl3l4_26
+    21300054: 100_food_sprites_by_neoriceisgood_d5rl3l4_27
+    21300056: 100_food_sprites_by_neoriceisgood_d5rl3l4_28
+    21300058: 100_food_sprites_by_neoriceisgood_d5rl3l4_29
+    21300060: 100_food_sprites_by_neoriceisgood_d5rl3l4_30
+    21300062: 100_food_sprites_by_neoriceisgood_d5rl3l4_31
+    21300064: 100_food_sprites_by_neoriceisgood_d5rl3l4_32
+    21300066: 100_food_sprites_by_neoriceisgood_d5rl3l4_33
+    21300068: 100_food_sprites_by_neoriceisgood_d5rl3l4_34
+    21300070: 100_food_sprites_by_neoriceisgood_d5rl3l4_35
+    21300072: 100_food_sprites_by_neoriceisgood_d5rl3l4_36
+    21300074: 100_food_sprites_by_neoriceisgood_d5rl3l4_37
+    21300076: 100_food_sprites_by_neoriceisgood_d5rl3l4_38
+    21300078: 100_food_sprites_by_neoriceisgood_d5rl3l4_39
+    21300080: 100_food_sprites_by_neoriceisgood_d5rl3l4_40
+    21300082: 100_food_sprites_by_neoriceisgood_d5rl3l4_41
+    21300084: 100_food_sprites_by_neoriceisgood_d5rl3l4_42
+    21300086: 100_food_sprites_by_neoriceisgood_d5rl3l4_43
+    21300088: 100_food_sprites_by_neoriceisgood_d5rl3l4_44
+    21300090: 100_food_sprites_by_neoriceisgood_d5rl3l4_45
+    21300092: 100_food_sprites_by_neoriceisgood_d5rl3l4_46
+    21300094: 100_food_sprites_by_neoriceisgood_d5rl3l4_47
+    21300096: 100_food_sprites_by_neoriceisgood_d5rl3l4_48
+    21300098: 100_food_sprites_by_neoriceisgood_d5rl3l4_49
+    21300100: 100_food_sprites_by_neoriceisgood_d5rl3l4_50
+    21300102: 100_food_sprites_by_neoriceisgood_d5rl3l4_51
+    21300104: 100_food_sprites_by_neoriceisgood_d5rl3l4_52
+    21300106: 100_food_sprites_by_neoriceisgood_d5rl3l4_53
+    21300108: 100_food_sprites_by_neoriceisgood_d5rl3l4_54
+    21300110: 100_food_sprites_by_neoriceisgood_d5rl3l4_55
+    21300112: 100_food_sprites_by_neoriceisgood_d5rl3l4_56
+    21300114: 100_food_sprites_by_neoriceisgood_d5rl3l4_57
+    21300116: 100_food_sprites_by_neoriceisgood_d5rl3l4_58
+    21300118: 100_food_sprites_by_neoriceisgood_d5rl3l4_59
+    21300120: 100_food_sprites_by_neoriceisgood_d5rl3l4_60
+    21300122: 100_food_sprites_by_neoriceisgood_d5rl3l4_61
+    21300124: 100_food_sprites_by_neoriceisgood_d5rl3l4_62
+    21300126: 100_food_sprites_by_neoriceisgood_d5rl3l4_63
+    21300128: 100_food_sprites_by_neoriceisgood_d5rl3l4_64
+    21300130: 100_food_sprites_by_neoriceisgood_d5rl3l4_65
+    21300132: 100_food_sprites_by_neoriceisgood_d5rl3l4_66
+    21300134: 100_food_sprites_by_neoriceisgood_d5rl3l4_67
+    21300136: 100_food_sprites_by_neoriceisgood_d5rl3l4_68
+    21300138: 100_food_sprites_by_neoriceisgood_d5rl3l4_69
+    21300140: 100_food_sprites_by_neoriceisgood_d5rl3l4_70
+    21300142: 100_food_sprites_by_neoriceisgood_d5rl3l4_71
+    21300144: 100_food_sprites_by_neoriceisgood_d5rl3l4_72
+    21300146: 100_food_sprites_by_neoriceisgood_d5rl3l4_73
+    21300148: 100_food_sprites_by_neoriceisgood_d5rl3l4_74
+    21300150: 100_food_sprites_by_neoriceisgood_d5rl3l4_75
+    21300152: 100_food_sprites_by_neoriceisgood_d5rl3l4_76
+    21300154: 100_food_sprites_by_neoriceisgood_d5rl3l4_77
+    21300156: 100_food_sprites_by_neoriceisgood_d5rl3l4_78
+    21300158: 100_food_sprites_by_neoriceisgood_d5rl3l4_79
+    21300160: 100_food_sprites_by_neoriceisgood_d5rl3l4_80
+    21300162: 100_food_sprites_by_neoriceisgood_d5rl3l4_81
+    21300164: 100_food_sprites_by_neoriceisgood_d5rl3l4_82
+    21300166: 100_food_sprites_by_neoriceisgood_d5rl3l4_83
+    21300168: 100_food_sprites_by_neoriceisgood_d5rl3l4_84
+    21300170: 100_food_sprites_by_neoriceisgood_d5rl3l4_85
+    21300172: 100_food_sprites_by_neoriceisgood_d5rl3l4_86
+    21300174: 100_food_sprites_by_neoriceisgood_d5rl3l4_87
+    21300176: 100_food_sprites_by_neoriceisgood_d5rl3l4_88
+    21300178: 100_food_sprites_by_neoriceisgood_d5rl3l4_89
+    21300180: 100_food_sprites_by_neoriceisgood_d5rl3l4_90
+    21300182: 100_food_sprites_by_neoriceisgood_d5rl3l4_91
+    21300184: 100_food_sprites_by_neoriceisgood_d5rl3l4_92
+    21300186: 100_food_sprites_by_neoriceisgood_d5rl3l4_93
+    21300188: 100_food_sprites_by_neoriceisgood_d5rl3l4_94
+    21300190: 100_food_sprites_by_neoriceisgood_d5rl3l4_95
+    21300192: 100_food_sprites_by_neoriceisgood_d5rl3l4_96
+    21300194: 100_food_sprites_by_neoriceisgood_d5rl3l4_97
+    21300196: 100_food_sprites_by_neoriceisgood_d5rl3l4_98
+    21300198: 100_food_sprites_by_neoriceisgood_d5rl3l4_99
+    21300200: 100_food_sprites_by_neoriceisgood_d5rl3l4_100
+    21300202: 100_food_sprites_by_neoriceisgood_d5rl3l4_101
+    21300204: 100_food_sprites_by_neoriceisgood_d5rl3l4_102
+    21300206: 100_food_sprites_by_neoriceisgood_d5rl3l4_103
+    21300208: 100_food_sprites_by_neoriceisgood_d5rl3l4_104
+    21300210: 100_food_sprites_by_neoriceisgood_d5rl3l4_105
+    21300212: 100_food_sprites_by_neoriceisgood_d5rl3l4_106
+    21300214: 100_food_sprites_by_neoriceisgood_d5rl3l4_107
+    21300216: 100_food_sprites_by_neoriceisgood_d5rl3l4_108
+    21300218: 100_food_sprites_by_neoriceisgood_d5rl3l4_109
+    21300220: 100_food_sprites_by_neoriceisgood_d5rl3l4_110
+    21300222: 100_food_sprites_by_neoriceisgood_d5rl3l4_111
+    21300224: 100_food_sprites_by_neoriceisgood_d5rl3l4_112
+    21300226: 100_food_sprites_by_neoriceisgood_d5rl3l4_113
+    21300228: 100_food_sprites_by_neoriceisgood_d5rl3l4_114
+    21300230: 100_food_sprites_by_neoriceisgood_d5rl3l4_115
+    21300232: 100_food_sprites_by_neoriceisgood_d5rl3l4_116
+    21300234: 100_food_sprites_by_neoriceisgood_d5rl3l4_117
+    21300236: 100_food_sprites_by_neoriceisgood_d5rl3l4_118
+    21300238: 100_food_sprites_by_neoriceisgood_d5rl3l4_119
+    21300240: 100_food_sprites_by_neoriceisgood_d5rl3l4_120
+    21300242: 100_food_sprites_by_neoriceisgood_d5rl3l4_121
+    21300244: 100_food_sprites_by_neoriceisgood_d5rl3l4_122
+    21300246: 100_food_sprites_by_neoriceisgood_d5rl3l4_123
+    21300248: 100_food_sprites_by_neoriceisgood_d5rl3l4_124
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e038d1bd65fd44c22948aa340bc7b106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bef0de602f5942feb289885de45163c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198abbbf4750f443688cae6270246b3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 512
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d5debe611aa46fd82753e761005f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4b01ee2b92a4705bafea36652f1e6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd55245c3e86f43af8ce235dfe0df670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b25108fb35c43dfa5b635e3bae8163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84621ad9c9c1143d78f012d911b90386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a815944eccdd446cbe6e31399d982d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 574
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c93161db608140e7a47465f621900ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee94f048c1941c7849c57142f2f490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4ba48b376de4a9682787e209a34196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991735159d3de4af3beaadf221b51412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45537232d45f4f30900219b26ef4d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 512
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86653464da2a4c13b0b46245db5574f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b80a5d8d1b544b119451cdab139222a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17975ccc4deec4140a94cdcb53b0cb53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_17
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc199d2bf71e945caac99e3ff7edf933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_18
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 512
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab770756d80743e099b9a7dae71dd07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d4d35e8f8f840eea0ed4fe27db665c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9060e4feb04463390515dd6e39e4e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b35a1eaacc4a9e8e940e94da411ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3951dd0399e4947478e8e6b9c8993038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ecc3cabd1ec4a899d4a64e0922eeb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_24
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 450
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737220682781d4eb9867e99b3931ff97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_25
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 452
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0487be4e60b6465f9613a8be52d445b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5127c49e47d4bba9f598eb7e729321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456a910448bd144ca9e37bf988a2e29c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_28
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 450
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a326803c74024685937eb700e07b2ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6840b8d8f7ff4dbaa6449a019ab4585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_30
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fb7af49e0c34c719416c5e03e009a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f06f99e5a99458aa3863f9e1cda823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d869d2d17540ecbc7dc261c071fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 388
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46970b83722684262899e0db302b2483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_34
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa507dfacc75472ab05d279920313bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945aca3b4dcb946e6abc93d4b8bedda2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d7356c8d48045a0a93730326aa0f20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9618bd56ee446452a93f8ed6c7fc30f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_38
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 388
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cd1538ff16b4a559cabb72ae7cf6c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc4e324b3b04e01bc65b499b34b6a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0553a769237f143a799287662cdd5d2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b55df0755b664036a778e146def36db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_42
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74b9c9fc4cf94d00b5552a6449c310a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_43
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e8af2389eed46d898521ecaacd6a4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f08fe08edaa64f96b19ded294c77281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_45
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6b1e837c4804683a36c519affc65c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_46
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b6b3b571ca944faba9b5e4614ea915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_47
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632afbfae002f4e1f884b1f2040bf70d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_48
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 326
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7023d0b67358143aabe3590aef0e8443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47b62c5dd78a4b7b959875cc393beb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62a8fa7f97b8484193a86b24ce1aa4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf3ed38e0964c3bba269a5e0127ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1701c1b71579c4c078170d33c4345d2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_53
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373a837b1fb864824822207a0931d339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_54
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0ef9744e57c42a2ad20e4aea74b42d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_55
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e6239b5df2045738c233b5a612c053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_56
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b462aad5d814c4b5b89429fe2fdb1ae6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_57
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b3622c501d946b0bfed102a5a37c28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_58
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 264
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45df7ddf64ff240e2ada2b6dc60f621c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f74f727a016645a68d3d34321f5efd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b577628dbf6a497e99c0bdd2e2b98c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdafe0f731d64824be3ebd832b41323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_62
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee290500b4904936b1c97ee1dcf6860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_63
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b13f83b8e8a4c2db8f13b3a5f79f6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_64
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84fcc730cf6d47979b5ef87d2350952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_65
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21456f21ebbb74a6e9afaed62fb017c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_66
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a772790dfad654444ae7663a116eefcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_67
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf6ccf006e1348f1bb2c71d53cbe6df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_68
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 202
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b3e9a4fba5a4fe692d9e44f04d97fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83213eb395ac4fe0896a0fb1ba0ad2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_70
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adcd2a7d9a034da1b7b24ec6ef6b906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa68432901fd4ce0a08617aa5d1fee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71be723820d294cb48654bf455ac485a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_73
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f87f027742f84777a147721367df315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_74
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907da0b0f0bd743ea8fc43fae6bbfb34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_75
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfc9cb3f44f543f89fbebe61c2ae103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_76
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb1638cd85db45f38c15423b03e297a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_77
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 140
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232cf101e7b434ea98b7c1a3dd4a525b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_78
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 140
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724dbc630b0d843548f1da2062835da1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91859e21bd1904c96bb636ca10423fd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_80
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00106205fa64d42519f4bcdbdf0e4a6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4403d6d6f8beb4396a273e124f20d4ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_82
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f162ef537f49089d3f5ac59612253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_83
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb37f26847f84204801a829ca8a8605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_84
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555b8c26bb44741b2b184fcaed32a6a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_85
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e842d486c3dae427db59ca9f014f2142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_86
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849632da2da7145a5ac724e62d7c442e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_87
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 78
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c720cad0d78074dddb45e2f5c65baaa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_88
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 78
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3090a0e1d39074c708ec17d1508b8a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cef347537254a458d1a70e2e55b9fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3313e2d75de475da0e9ee682750768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702abe61e00f745baa1613c25c7a2fd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_92
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525f71295003c489baa0807e34afd4fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_93
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 18
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532279df5ee6d41caa932dabdbf23085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_94
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243849044a5cc4409b322b2fdec51b2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_95
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c07319228395482cbff6cf6b44eccc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_96
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 16
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef280ea5464214eb48a43588509850e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_97
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae790b31d7a3a4f02a9ef42571d070b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_98
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 16
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9be4a0ee79b1482ba8beda593e51e6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_99
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef9d1df691542dcb66ed9e181711a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_100
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6181c88de27489eaa9f6bac4cfd84f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_101
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b9db2060664d8696d204dd1446710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_102
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae75dd5e636842afa2be215ec76fff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_103
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ece56e830f9848cf99487d6f97c0764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4248c0bb1594c848a6bda04747563c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_105
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495dabf320631499d8012e49019b6da1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_106
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dee7a615889c4c39ac2c0483b28db66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_107
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e7ba856214f44ca8907cee3456b1ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_108
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd64fcea4632432e811807051c7b9fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_109
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1708c5a1e081f4de2921ab1edf0d3382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_110
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b24512c6236475292ad97dc326f0fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_111
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d356fae66591043868af9ea2ac24a71a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_112
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022a93398e035407db591d2c0a8ee4a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_113
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e51d9f50b04496281e52a9b0e6455f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_114
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3f77a564ccf4fd6865f915a8a33599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_115
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2611719ba5ab4c378491ae5688e5058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_116
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c96dac5b4ac443cab61f41cdeb5072a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_117
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 4
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b33db983db490fbb4fb14a4e8567e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_118
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49651d4ced05e46f382b0a4cdfa08c0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_119
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecedfdf8d47c748dcac3520e3a245f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_120
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bfd57f63ecf4b31a203bf5be7b2c1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_121
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc46a6a5c10442538829b827e12f8e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_122
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e94c0fe553b402080c153f49309de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_123
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c6b938349cd4cf19d2bceafeec7d42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_food_sprites_by_neoriceisgood_d5rl3l4_124
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff544cc5c7b8407fb474e4eee10c8ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5f37360f30334849a5ea482a537737b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
