@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - help
   - 
   - 
   - 
@@ -38,6 +38,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: help
+    uniqueID: 1915866995
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
