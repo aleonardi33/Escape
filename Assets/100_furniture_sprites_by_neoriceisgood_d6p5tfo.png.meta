@@ -1,0 +1,2178 @@
+fileFormatVersion: 2
+guid: 999d3fdcfc9204994a2a4b02431d82e8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_0
+    21300002: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_1
+    21300004: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_2
+    21300006: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_3
+    21300008: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_4
+    21300010: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_5
+    21300012: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_6
+    21300014: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_7
+    21300016: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_8
+    21300018: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_9
+    21300020: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_10
+    21300022: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_11
+    21300024: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_12
+    21300026: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_13
+    21300028: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_14
+    21300030: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_15
+    21300032: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_16
+    21300034: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_17
+    21300036: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_18
+    21300038: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_19
+    21300040: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_20
+    21300042: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_21
+    21300044: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_22
+    21300046: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_23
+    21300048: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_24
+    21300050: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_25
+    21300052: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_26
+    21300054: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_27
+    21300056: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_28
+    21300058: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_29
+    21300060: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_30
+    21300062: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_31
+    21300064: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_32
+    21300066: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_33
+    21300068: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_34
+    21300070: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_35
+    21300072: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_36
+    21300074: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_37
+    21300076: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_38
+    21300078: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_39
+    21300080: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_40
+    21300082: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_41
+    21300084: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_42
+    21300086: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_43
+    21300088: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_44
+    21300090: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_45
+    21300092: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_46
+    21300094: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_47
+    21300096: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_48
+    21300098: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_49
+    21300100: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_50
+    21300102: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_51
+    21300104: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_52
+    21300106: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_53
+    21300108: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_54
+    21300110: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_55
+    21300112: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_56
+    21300114: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_57
+    21300116: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_58
+    21300118: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_59
+    21300120: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_60
+    21300122: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_61
+    21300124: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_62
+    21300126: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_63
+    21300128: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_64
+    21300130: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_65
+    21300132: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_66
+    21300134: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_67
+    21300136: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_68
+    21300138: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_69
+    21300140: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_70
+    21300142: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_71
+    21300144: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_72
+    21300146: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_73
+    21300148: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_74
+    21300150: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_75
+    21300152: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_76
+    21300154: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_77
+    21300156: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_78
+    21300158: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_79
+    21300160: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_80
+    21300162: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_81
+    21300164: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_82
+    21300166: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_83
+    21300168: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_84
+    21300170: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_85
+    21300172: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_86
+    21300174: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_87
+    21300176: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_88
+    21300178: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_89
+    21300180: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_90
+    21300182: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_91
+    21300184: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_92
+    21300186: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_93
+    21300188: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_94
+    21300190: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_95
+    21300192: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_96
+    21300194: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_97
+    21300196: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_98
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 942
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62581b20867541afb65f61206c0dad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 942
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff16e17ae09374851a5f634f34b01c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 942
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8810758dc08747f392862a05fae160b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 942
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8ad70c446ab48ccaf7c8f1eff7cbf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 942
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2a639cee54448eb9bd0b8326c4201a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_5
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 942
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0847a04642434de6880075c66333f29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_6
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 942
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd6c3b85bfe1426090689b1b7a09ce4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_7
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 942
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c1ccd415a343e79e6868567a0992c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_8
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 942
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779b5fc8f7dc04e3da750569f6ee359c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_9
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 942
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4450e974ca05b4f1eb41947bb9478bf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 838
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ee496510bc44fa5a12ead7866901c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 838
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d751b4d30a6474fbf383ad2dc1b47e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 838
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c4e6351047e4905b17d0f48f817e85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 838
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81bcc47d0b844d02a06f49c134e9a42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 838
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f947ec5b32b1b46f4a831d490559871b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 838
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf5bd7444b0549e7ae98f44c584575f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_16
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 838
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c297526dd043048489f8a2925b31ae1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_17
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 838
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19920f7edc8ed43989e742119fa53446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_18
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 838
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48507ce1b94184deeae264e0926c2ce6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 838
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e71008e42f64ecfaa4f14c049e23a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7ae3542dfd84398b973b5322de7cb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c621b49a2794ecd9a9de53fb0cafdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de147306cefa84afca00296162317068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c84aa141dde4b2691a1b283303e425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d90362c2c34f39b7800d9ab69b903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_25
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c32c622a34234914aef3c1308b4bc94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_26
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46099fbbbabbb469992f4bc4782548ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fe89aa2d18f425fa96e4a813e63b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_28
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6539358afa1477f8327637b2067293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_29
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 734
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f96e57118784f1aa68fcc80a0c244e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 630
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f8400c22cb40648722e05e64dbb33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 630
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea6cd13128f5423ab94d0cbd6138fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 630
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b3b26b799b34ce5ad3e7deb726e5c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 630
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff77ae3ec984d1c9a754fdc70e8bbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 630
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522e05178cc5e4c2ba0ca6f3609b4fe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 630
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1d35374f5c34625bd86ec3c5e92cf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_36
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 630
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5ed594ab4be41eea7b3e3409068b42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_37
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 630
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5bcad3614e49ce9cb74f914a99728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_38
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 630
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b3c4ec4ac7b418d926ae674f024a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_39
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 630
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975c1831dc7a04d50892631d48c1bcc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 526
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9809bbe8985a64eb28a10952b726f164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 526
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce7b228d1a6644de8dd17c58deca28c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_42
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 526
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff237ffbcd85349a2b72668627b18a5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_43
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 526
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e68216e5ba6d4641bed80d8c9c51a42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 526
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4788a1d791dfe4d0e9b477cde0a45fb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_45
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 526
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaa068f814564f5bbaa8d8269baf789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_46
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 526
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6f7b655897444cb627fa3eaab5ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_47
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 526
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f00c2feef1e41229fdd3614eed5aab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_48
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 526
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4910e1bf263094029a0d8591f07d85ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_49
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 526
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6fd661b5029493cad45ac0ba9b5d3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 422
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ba0c812d4b1458eb30c613e6370479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 422
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc0607fb815c4f59bbb8648ba358e1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_52
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 422
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22b8730cda9e43468913e58d95d5b49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_53
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 422
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab5485998a5f48589ba89ae71e738bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_54
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 318
+        width: 122
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441e19d310c944a0d892893a3e75a6fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_55
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 422
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba5e40f72cd54eecb518dae2778f1ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_56
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 422
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a82ca3f7b154ff9ace5627a962c6c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_57
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 422
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac74028541ce7434e9608c55e79d8eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_58
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 422
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ebb4222b3a4d7eb53aab8207874bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_59
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 422
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e285769c34554aa2b6ad37c5678d1d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 318
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0dcff677d86476fb95f45c15bbc2b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 318
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aede8bbda2b4b95bf25f67974f4ee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_62
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 318
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17074882223a34713bd7a146ea30dc70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_63
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 318
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9029b6426242d4a6d8f29acc7b6f2dfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_64
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 318
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1eb1b674d2d43ca84d54068524d740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_65
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 318
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b1403a6c78c4b378c4595a66b9c097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_66
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 318
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd5713c5eb6f4daa8f5f33464377f20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_67
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 318
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ddf6a101d043acba142cad3f99cd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_68
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 318
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e227b3d3d73224e17bd1f33975be8a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_69
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 214
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5948252d51f44ec7ad7a26e805bd959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_70
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 214
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4144054a3d13245c28cfab1b01440631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_71
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 214
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853d3b8cdc21742e884367771e51b254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_72
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 214
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd02ebdad5d084e74a3cdcfda86f7549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 214
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bb305b334954854aea2b3abe980aa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_74
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 214
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c65fc50e0f3a41db9305b29db13e3a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_75
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 214
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbe8dc86a8264bc5903d39db8009313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_76
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 214
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bf53c55685e4ab6862a993acfb5e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_77
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 214
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa331a3d76f714e559fb06bad860548b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_78
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 214
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f25e9019ea11400aa2077b6f1491518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 110
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2980a5156601246dfa057706fe3ad89f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 110
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7af95ed059994861a4108479edf04d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_81
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 110
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22348bfd3d1b48e4b22f6d1b51ff441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_82
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 110
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32144bf378a874f42bc90838375209bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_83
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 110
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174fcdf3d1b4d488285ea5b386fc1959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_84
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 110
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d95981ef0ed14dd8a38e98313eca581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_85
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 110
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631ecee9495d042f89afd1aa51bacaeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_86
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 110
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab23a9f669544306b396cfe7d12ca57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_87
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 110
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7525cd79e329c457790bf13a543f6f69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_88
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 110
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d985aa1fbd89b4a2691ed79a42cd2f3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_89
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e67cb4063e1d434b993e4209a7cea06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7353234185a674425a5713555c9bfc46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_91
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 6
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dea6e2e7ce5c4102a69f0178680f078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_92
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 6
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765baa7fac10849babc7f0e922ed42b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_93
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0124c39effaf4752907d80671477775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_94
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 6
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486b8bcf3036f4560bcc0ff25e5d4a44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_95
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 6
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b351fd8d369f7480b8535e11c70d32b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_96
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 6
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4bf5b95bfef4f5c8845c6800cb2626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_97
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 6
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a26a39cb0564852869719421327e3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_98
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 6
+        width: 122
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff8506f0117243ef9773b0fe99cd97c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3cda471fb954241c7b56516d97de8f61
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

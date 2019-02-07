@@ -1,0 +1,2199 @@
+fileFormatVersion: 2
+guid: 0dc445b62166b4d819501b841610d9ec
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_0
+    21300002: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_1
+    21300004: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_2
+    21300006: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_3
+    21300008: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_4
+    21300010: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_5
+    21300012: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_6
+    21300014: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_7
+    21300016: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_8
+    21300018: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_9
+    21300020: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_10
+    21300022: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_11
+    21300024: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_12
+    21300026: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_13
+    21300028: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_14
+    21300030: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_15
+    21300032: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_16
+    21300034: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_17
+    21300036: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_18
+    21300038: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_19
+    21300040: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_20
+    21300042: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_21
+    21300044: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_22
+    21300046: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_23
+    21300048: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_24
+    21300050: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_25
+    21300052: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_26
+    21300054: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_27
+    21300056: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_28
+    21300058: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_29
+    21300060: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_30
+    21300062: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_31
+    21300064: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_32
+    21300066: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_33
+    21300068: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_34
+    21300070: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_35
+    21300072: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_36
+    21300074: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_37
+    21300076: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_38
+    21300078: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_39
+    21300080: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_40
+    21300082: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_41
+    21300084: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_42
+    21300086: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_43
+    21300088: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_44
+    21300090: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_45
+    21300092: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_46
+    21300094: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_47
+    21300096: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_48
+    21300098: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_49
+    21300100: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_50
+    21300102: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_51
+    21300104: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_52
+    21300106: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_53
+    21300108: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_54
+    21300110: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_55
+    21300112: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_56
+    21300114: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_57
+    21300116: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_58
+    21300118: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_59
+    21300120: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_60
+    21300122: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_61
+    21300124: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_62
+    21300126: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_63
+    21300128: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_64
+    21300130: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_65
+    21300132: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_66
+    21300134: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_67
+    21300136: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_68
+    21300138: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_69
+    21300140: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_70
+    21300142: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_71
+    21300144: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_72
+    21300146: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_73
+    21300148: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_74
+    21300150: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_75
+    21300152: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_76
+    21300154: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_77
+    21300156: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_78
+    21300158: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_79
+    21300160: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_80
+    21300162: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_81
+    21300164: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_82
+    21300166: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_83
+    21300168: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_84
+    21300170: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_85
+    21300172: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_86
+    21300174: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_87
+    21300176: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_88
+    21300178: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_89
+    21300180: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_90
+    21300182: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_91
+    21300184: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_92
+    21300186: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_93
+    21300188: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_94
+    21300190: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_95
+    21300192: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_96
+    21300194: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_97
+    21300196: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_98
+    21300198: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_99
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591915fec58a4622b2055b3139817d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0384fe2aab65344e1b6fa5b4d750d588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da32471449b7941f6956f79a6ea2958f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da816a4485444b32bb0c1a7cb8d5a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 404
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad720d47e1d88468f8cad44fb20702de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a134b064946474ab5fc9bd9c62570f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3c5973e0ea94cebbcba83637525dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fcae48f51d94b9c9f3d179874afdab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1218e69c62444b059276087ea56e4a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c070637fff34000aad99665f932d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef821b1df7d6546178bb459593aee67d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87cf9eabb7e54e32a4adea11ef56019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacc5fdf312514602923384f651612a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_13
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdf220c0a27e4dad9408603c84d0343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf495b1e38c484fa82a21c4a63c193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_15
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 402
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ac841a876fa42579ce7ceaf85f8e2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_16
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7882e5ffcd04358a28c1e64bc760af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5b9beadb094420aa8aa6af1bf74320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_18
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fccdb5684ed42c6a62c00dd10d53c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_19
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 404
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816004146f9e545c390d315fdea8c87a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cecc77a274224ddb9e84db5fb3d41f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d4471d353b34ef0836ccba760000f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdbd42280a284f4b9e4058f6f51ee29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be010984732b45868628b77b9b37385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295717a500cf44227ada741e393ea15c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ea1fa6f586b45a5abd64e9547c5da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72837e139eac41dcb9962270234d6da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ff14b9a3748465dae5ecb38401fba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 302
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871c4bdb0d58149c7b23173b733ff296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a642f4a69a69a420f806ec4cee9eabd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_30
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9cd7e5cf3447808da84242bb08e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_31
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 304
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418ea86f592d34bafb7fd3f7af5de4dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_32
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d15b84a14454ba88411ab2dd2820f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b038747a301884421b8609ad9dd56027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_34
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f92f8a37fd49829442a9e34c2ce43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_35
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9964f39104f4595ae8d2de9b514fbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_36
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32926b6ab71f545b9830bf9169ca9c59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_37
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904dfe97ed113479daaec267797fd709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_38
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb8306b0a3e349ef93367d4a94c4aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_39
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 304
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3293c86d65f8c4a6abd4a2cb91b00bb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869cde998c1444da6ab0668320473709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fef4f5646ec54ef2ac78f91f170e5d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc9efaadee744f74ae3c097ec1486ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 202
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66951a7999f724416b608d30c13f74cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_44
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 202
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5499b4837a14b4fe69d7f57496ce4eee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272cc0bbe59c45cfa45dedaf2c30fad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_46
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e5df6a52eab47128b8921801359e8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6fe395495a44deb934ab72b2631793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_48
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456a50908c1784f8092ab4c5a72a437c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8c1b24188984cc0b8b5e81c35e04b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_50
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f5bfb4dd22747fd80f23234b5fcf6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_51
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07af5cdd385e4a7ea80f4ddb5070ae8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_52
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4178e9659631a4aa5ac143df0c964074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_53
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e773da1bba44358e9f930327855b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_54
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e231282a392c4edfb119c207f58225f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_55
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d13298a2739416ea65573586090ef1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_56
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44a0393323334eaaa7b60c8c9cff68c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764ea447d3da4615acdf84a498a49bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_58
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47784d64bb2842d585a48158811ef9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_59
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 204
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48af7009282844fb99a8818a66f92ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51465ca994e49499984042fd87269582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df82663ff8d9c43a2b9668015cb002de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_62
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de1badae596d425488c76826cab6fc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 104
+        width: 40
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3ac8fbd605f4b478fcd3b5d01336df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_64
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a716215f12efd4f8d94c820ca16aa37a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_65
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856133d1bb4254e6aa825dd29c46b1bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_66
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227e5fc8218004485803b05b0c01c9f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_67
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf024f8001414506a5257c971490561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1144abae38f4b6db88ab6c0b1ca1a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b4775449134c82a69b7e3760a645e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_70
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 104
+        width: 42
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce744e129a0d459eb46b0f14861f5ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_71
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232bc63f0095346849c491137effe2a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_72
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da0a192ae45455e98c25db8ad3fde1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_73
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9426939c42004f0899c9ff7321f4e20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_74
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317f17ad7fd224198b6d731f2eefd443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_75
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3abb275423fe4c809fa1a0474258a34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_76
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7723a347cf54a4391516a0942e9d37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_77
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e6c89287ec445c87ff9a00b8f1514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_78
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05405d1af16ff489ba83550328c13184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_79
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 104
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356beabb135449f59d5803299f412d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515cfcaddd2a147929479fa3e4b48210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d5652d27135467e9c3106d4410eb3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_82
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a929752bf73724412a31c1ff5852c563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_83
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3028506910548b5b5b362641512936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_84
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85432a1c14e0443a692065c6e8ed67dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64d4f422c30447a8957d8f7b34fdd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_86
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fb8fd9c34f642e398883b745324422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_87
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8df92b8e7ae42d58e921d4bde37992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_88
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042587c3853ab4a1293a1fe6f15da824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_89
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a53c833b7b64a25989ed33dc006e11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_90
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da86417f45a44192bd7b6e2a81f34f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_91
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b9f7ad28601413a9f79b675978897e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_92
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e484fd8640904709b36af81451cdecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_93
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487d945562c794dffb83d0e11ea6636b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_94
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6e31a3b52ec4856879e6d46f6c5838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_95
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c933146920e4458bceb5d20cb8dd5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_96
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f37eac64e38414b9eead33d4617da1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_97
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16987df4801094cfc982cd126937f1ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_98
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e270d0e74e3b44773b168e5f19882266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100_weapon_sprites_by_neoriceisgood_d6w8rhl_99
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 4
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596982d46024540d5b8ecfe3b7005f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b613ac4a9171342828109f4bcd321372
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
