@@ -10,12 +10,14 @@ public class disappear : MonoBehaviour
     {
 
     }
+
+    void OnMouseUp()
+    {
+        Destroy(gameObject);
+    }
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
-        {
-            Destroy(gameObject);
-        }
+        
     }
 }

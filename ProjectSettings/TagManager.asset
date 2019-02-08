@@ -13,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - help
   - 
-  - 
-  - 
+  - background details
+  - background
+  - on top of everything
   - 
   - 
   - 
@@ -38,9 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: help
+  - name: background
+    uniqueID: 1297461147
+    locked: 0
+  - name: background details
     uniqueID: 1915866995
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: on top of everything
+    uniqueID: 692813285
     locked: 0
