@@ -8,11 +8,11 @@ public class numpad : MonoBehaviour
 	// Use this for initialization
 	void Start()
 	{
-		foreach (Transform child in transform.parent)
+		foreach (Transform sibling in transform.parent)
 		{
-			if (child.name.Equals("dooropen"))
+			if (sibling.name.Equals("dooropen"))
 			{
-				dooropen = child;
+				dooropen = sibling;
 			}
 		}
 	}
@@ -24,7 +24,10 @@ public class numpad : MonoBehaviour
 	void OnMouseUp()
 	{		
 		if (!transform.GetChild(0).gameObject.activeSelf && !dooropen.gameObject.activeSelf){
-			transform.GetChild(0).gameObject.SetActive(true);
+			foreach (Transform child in transform)
+			{
+				child.gameObject.SetActive(true);
+			}
 		}
 	}
 }

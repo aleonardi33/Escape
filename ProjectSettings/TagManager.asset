@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - downarrow
+  - uparrow
+  - combonum
   layers:
   - Default
   - TransparentFX
@@ -17,7 +20,7 @@ TagManager:
   - background details
   - background
   - on top of everything
-  - 
+  - even more on top
   - 
   - 
   - 
@@ -49,4 +52,7 @@ TagManager:
     locked: 0
   - name: on top of everything
     uniqueID: 692813285
+    locked: 0
+  - name: even more on top
+    uniqueID: 3090568345
     locked: 0
