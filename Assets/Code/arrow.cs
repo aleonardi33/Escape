@@ -33,8 +33,14 @@ public class arrow : MonoBehaviour
 		{
 			arrownum -= 4;
 		}
-		
-		numpadlarge = FindObjectOfType<largenumpad>().transform.gameObject;
+
+		foreach (Transform sibling in transform.parent)
+		{
+			if (sibling.name.Equals("numpadlarge"))
+			{
+				numpadlarge = sibling.gameObject;
+			}
+		}
 	}
 	
 	// Update is called once per frame
