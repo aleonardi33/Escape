@@ -26,6 +26,7 @@ public class arrow : MonoBehaviour
 		else
 		{
 			Debug.Log("neither uparrow nor downarrow");
+			isup = true;
 		}
 
 		arrownum = int.Parse(gameObject.name.Substring(gameObject.name.Length - 1));
