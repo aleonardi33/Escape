@@ -186,10 +186,10 @@ TextureImporter:
       name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_0
       rect:
         serializedVersion: 2
-        x: 153
-        y: 944
-        width: 71
-        height: 104
+        x: 155
+        y: 948
+        width: 67
+        height: 94
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,10 +266,10 @@ TextureImporter:
       name: 100_furniture_sprites_by_neoriceisgood_d6p5tfo_4
       rect:
         serializedVersion: 2
-        x: 352
-        y: 807
+        x: 873
+        y: 961
         width: 122
-        height: 102
+        height: 53
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
