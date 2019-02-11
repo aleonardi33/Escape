@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net;
 using UnityEngine;
 
-public class Right : MonoBehaviour
+public class moveright : MonoBehaviour
 {
     public Vector3 pos;
     public Vector3 oldpos;
@@ -17,23 +17,19 @@ public class Right : MonoBehaviour
     }
 
 
-    void OnMouseDown()
+    void OnMouseUp()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (GameObject.Find("numpadlarge") == null)
         {
+            GetComponent<AudioSource>().Play();
             if (rights)
             {
-
-                transform.position = new Vector3(pos.x +3, pos.y, pos.z);
-
-
+                transform.position = new Vector3(pos.x + 3, pos.y, pos.z);
                 rights = false;
             }
             else
             {
                 transform.position = new Vector3(oldpos.x, pos.y, pos.z);
-
-
                 rights = true;
             }
         }

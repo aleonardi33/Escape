@@ -11,7 +11,6 @@ public class arrow : MonoBehaviour
 	private bool isup;
 	private int arrownum;
 	private GameObject numpadlarge;
-	public Button mybutton;
 	
 	// Use this for initialization
 	void Start () {
@@ -35,29 +34,16 @@ public class arrow : MonoBehaviour
 			arrownum -= 4;
 		}
 
-		foreach (Transform sibling in transform.parent)
-		{
-			if (sibling.name.Equals("numpadlarge"))
-			{
-				numpadlarge = sibling.gameObject;
-			}
-		}
+		numpadlarge = transform.parent.gameObject;
 	}
 	
 	// Update is called once per frame
 	void Update()
 	{
-		if (!numpadlarge.activeSelf)
-		{
-			mybutton.gameObject.SetActive(false);
-		}
-		else
-		{
-			mybutton.gameObject.SetActive(true);
-		}
+		
 	}
 
-	public void MyOnClick()
+	void OnMouseUp()
 	{
 		numpadlarge.GetComponent<largenumpad>().updatenum(arrownum, isup);
 	}

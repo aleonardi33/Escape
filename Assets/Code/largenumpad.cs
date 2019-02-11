@@ -11,10 +11,8 @@ public class largenumpad : MonoBehaviour
 	public Text num4;
 	
 	// Use this for initialization
-	private bool isclickonme;
 	void Start ()
 	{
-		isclickonme = true;
 		num1.text = "0";
 		num2.text = "0";
 		num3.text = "0";
@@ -26,36 +24,17 @@ public class largenumpad : MonoBehaviour
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		
-		if(Input.GetMouseButtonUp(0) && !isclickonme)
-		{
-			gameObject.SetActive(false);
-			num1.gameObject.SetActive(false);
-			num2.gameObject.SetActive(false);
-			num3.gameObject.SetActive(false);
-			num4.gameObject.SetActive(false);
-		}
-		else if (Input.GetMouseButtonUp(0))
-		{
-			isclickonme = false;
-		}
-		if (!gameObject.activeSelf)
-		{
-			isclickonme = true;
-		}
-		else
+	void Update ()
+	{
+		transform.position = new Vector3(GameObject.Find("Main Camera").transform.position.x, 
+											transform.position.y,transform.position.z);
+		if (gameObject.activeSelf)
 		{
 			num1.gameObject.SetActive(true);
 			num2.gameObject.SetActive(true);
 			num3.gameObject.SetActive(true);
 			num4.gameObject.SetActive(true);
 		}
-	}
-
-	void OnMouseDown()
-	{
-		isclickonme = true;
 	}
 
 	public void updatenum (int whichtext, bool isincrement)
@@ -96,5 +75,6 @@ public class largenumpad : MonoBehaviour
 			}
 		}
 		txt.text = num.ToString();
+		GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("SoundEffects/buttontap"));
 	}
 }

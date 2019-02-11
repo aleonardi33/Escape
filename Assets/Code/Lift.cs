@@ -8,7 +8,7 @@ public class Lift : MonoBehaviour
     public Vector3 pos;
     public Vector3 oldpos;
     // Use this for initialization
-    private bool lifts = true;
+    private bool islifted = true;
 
     void Start()
     {
@@ -17,24 +17,20 @@ public class Lift : MonoBehaviour
     }
 
 
-    void OnMouseDown()
+    void OnMouseUp()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (GameObject.Find("numpadlarge") == null)
         {
-            if (lifts)
+            GetComponent<AudioSource>().Play();
+            if (islifted)
             {
-
-                transform.position = new Vector3(pos.x, 1, pos.z);
-
-
-                lifts = false;
+                transform.position = new Vector3(pos.x, pos.y + 1f, pos.z);
+                islifted = false;
             }
             else
             {
                 transform.position = new Vector3(pos.x, oldpos.y, pos.z);
-
-
-                lifts = true;
+                islifted = true;
             }
         }
     }

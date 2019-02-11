@@ -12,15 +12,18 @@ public class disappear : MonoBehaviour
 
     void OnMouseUp()
     {
-        if (gameObject.tag.Equals("HasDeathSound"))
+        if (GameObject.Find("numpadlarge") == null)
         {
-            GetComponent<AudioSource>().Play();
-            GetComponent<SpriteRenderer>().enabled = false;
-            Destroy(gameObject, GetComponent<AudioSource>().clip.length);
-        }
-        else
-        {
-            Destroy(gameObject);
+            if (gameObject.tag.Equals("HasDeathSound"))
+            {
+                GetComponent<AudioSource>().Play();
+                GetComponent<SpriteRenderer>().enabled = false;
+                Destroy(gameObject, GetComponent<AudioSource>().clip.length);
+            }
+            else
+            {
+                Destroy(gameObject);
+            }
         }
     }
     // Update is called once per frame

@@ -24,6 +24,7 @@ public class numpad : MonoBehaviour
 	void OnMouseUp()
 	{		
 		if (!transform.GetChild(0).gameObject.activeSelf && !dooropen.gameObject.activeSelf){
+			GetComponent<AudioSource>().Play();
 			foreach (Transform child in transform)
 			{
 				child.gameObject.SetActive(true);

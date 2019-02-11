@@ -7,11 +7,16 @@
       <e p="Assets" t="Include">
         <e p="Code" t="Include">
           <e p="arrow.cs" t="Include" />
+          <e p="closewindow.cs" t="Include" />
           <e p="disappear.cs" t="Include" />
           <e p="doorclosed.cs" t="Include" />
           <e p="falseonstartup.cs" t="Include" />
           <e p="largenumpad.cs" t="Include" />
+          <e p="Lift.cs" t="Include" />
+          <e p="moveright.cs" t="Include" />
+          <e p="MoveRoom.cs" t="Include" />
           <e p="numpad.cs" t="Include" />
+          <e p="Timer.cs" t="Include" />
         </e>
         <e p="Plugins" t="Include">
           <e p="GitHub" t="Include">

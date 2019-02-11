@@ -31,15 +31,15 @@ public class doorclosed : MonoBehaviour
     {
 	    if (int.Parse(num1.text) == 5 &&
 	        int.Parse(num2.text) == 4 &&
-	        int.Parse(num3.text) == 2 &&
-	        int.Parse(num4.text) == 6)
+	        int.Parse(num3.text) == 7 &&
+	        int.Parse(num4.text) == 9)
 	    {
 		    islocked = false;
 		    transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().sprite =
 			    (Sprite)Resources.Load<Sprite>("Room1Sprites/numpad");
 		    numpadlarge.gameObject.GetComponent<SpriteRenderer>().sprite =
-			    (Sprite)Resources.Load<Sprite>("Room1Sprites/numpadcloseup");
-		    if (lastplayed != 1)
+			    (Sprite)Resources.Load<Sprite>("Room1Sprites/numpadclose");
+		    if (lastplayed != 1 && lastplayed != 3)
 		    {
 			    audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/doorunlock"));
 			    lastplayed = 1;
@@ -51,7 +51,7 @@ public class doorclosed : MonoBehaviour
 		    transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().sprite =
 			    Resources.Load<Sprite>("Room1Sprites/numpadlocked");
 		    numpadlarge.gameObject.GetComponent<SpriteRenderer>().sprite =
-			    Resources.Load<Sprite>("Room1Sprites/numpadcloseuplocked");
+			    Resources.Load<Sprite>("Room1Sprites/numpadcloselocked");
 		    if (lastplayed != 2)
 		    {
 			    audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/doorlock"));
@@ -63,14 +63,23 @@ public class doorclosed : MonoBehaviour
 
 	void OnMouseUp()
 	{
-		if (islocked)
+		if (!numpadlarge.gameObject.activeSelf)
 		{
-			audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/doorjiggle"));
-		}
-		if (!islocked && !numpadlarge.gameObject.activeSelf)
-		{
-			audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/dooropening"));
-			opendoor.SetActive(true);
+			if (islocked)
+			{
+				audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/doorjiggle"));
+			}
+
+			else
+			{
+				if (lastplayed != 3)
+				{
+					audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/dooropening"));
+					lastplayed = 3;
+				}
+
+				opendoor.SetActive(true);
+			}
 		}
 	}
 }
