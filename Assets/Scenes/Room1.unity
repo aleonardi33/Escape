@@ -1384,12 +1384,6 @@ MonoBehaviour:
     m_FixedHeight: 0
     m_StretchWidth: 1
     m_StretchHeight: 0
-  ScreenLocation:
-    serializedVersion: 2
-    x: 12
-    y: 300
-    width: 0
-    height: 0
   speed: 5
   leftlimit: -3
   rightlimit: 10

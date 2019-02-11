@@ -5,7 +5,7 @@ using UnityEngine;
 public class MoveRoom : MonoBehaviour {
     
 	public GUIStyle GUIStyle;
-	public Rect ScreenLocation;
+	private Rect ScreenLocation;
 	
     public float speed = 5.0f;
 	public float leftlimit = -3;
@@ -16,7 +16,8 @@ public class MoveRoom : MonoBehaviour {
     void Start ()
     {
 	    hasmoved = false;
-	}
+	    ScreenLocation = new Rect(Screen.width/2 - 270, Screen.height-20, Screen.width, 20);
+    }
 	
 	// Update is called once per frame
 	void Update () {
