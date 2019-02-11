@@ -77,4 +77,26 @@ public class largenumpad : MonoBehaviour
 		txt.text = num.ToString();
 		GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("SoundEffects/buttontap"));
 	}
+
+	public void ToggleColliders(bool makeenabled)
+	{
+		foreach (GameObject myobj in FindObjectsOfType<GameObject>())
+		{
+			if (!myobj.transform.IsChildOf(transform))
+			{
+				if(myobj.GetComponent<BoxCollider2D>() != null)
+				{
+					myobj.GetComponent<BoxCollider2D>().enabled = makeenabled;
+				}
+				else if(myobj.GetComponent<PolygonCollider2D>() != null)
+				{
+					myobj.GetComponent<PolygonCollider2D>().enabled = makeenabled;
+				}
+				else if(myobj.GetComponent<CircleCollider2D>() != null)
+				{
+					myobj.GetComponent<CircleCollider2D>().enabled = makeenabled;
+				}
+			}
+		}
+	}
 }

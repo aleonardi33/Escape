@@ -19,20 +19,16 @@ public class moveright : MonoBehaviour
 
     void OnMouseUp()
     {
-        if (GameObject.Find("numpadlarge") == null)
+        GetComponent<AudioSource>().Play();
+        if (rights)
         {
-            GetComponent<AudioSource>().Play();
-            if (rights)
-            {
-                transform.position = new Vector3(pos.x + 3, pos.y, pos.z);
-                rights = false;
-            }
-            else
-            {
-                transform.position = new Vector3(oldpos.x, pos.y, pos.z);
-                rights = true;
-            }
+            transform.position = new Vector3(pos.x + 3, pos.y, pos.z);
+            rights = false;
+        }
+        else
+        {
+            transform.position = new Vector3(oldpos.x, pos.y, pos.z);
+            rights = true;
         }
     }
-
 }

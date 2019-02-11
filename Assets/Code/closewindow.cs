@@ -17,6 +17,7 @@ public class closewindow : MonoBehaviour {
 	void OnMouseUp()
 	{
 		GetComponent<AudioSource>().Play();
+		transform.parent.gameObject.GetComponent<largenumpad>().ToggleColliders(true);
 		transform.parent.gameObject.SetActive(false);
 		transform.parent.GetComponent<largenumpad>().num1.gameObject.SetActive(false);
 		transform.parent.GetComponent<largenumpad>().num2.gameObject.SetActive(false);

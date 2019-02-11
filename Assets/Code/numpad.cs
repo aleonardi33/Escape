@@ -23,7 +23,9 @@ public class numpad : MonoBehaviour
 	}
 	void OnMouseUp()
 	{		
-		if (!transform.GetChild(0).gameObject.activeSelf && !dooropen.gameObject.activeSelf){
+		if (!dooropen.gameObject.activeSelf)
+		{
+			transform.GetChild(0).gameObject.GetComponent<largenumpad>().ToggleColliders(false);
 			GetComponent<AudioSource>().Play();
 			foreach (Transform child in transform)
 			{

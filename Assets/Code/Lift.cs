@@ -19,20 +19,16 @@ public class Lift : MonoBehaviour
 
     void OnMouseUp()
     {
-        if (GameObject.Find("numpadlarge") == null)
+        GetComponent<AudioSource>().Play();
+        if (islifted)
         {
-            GetComponent<AudioSource>().Play();
-            if (islifted)
-            {
-                transform.position = new Vector3(pos.x, pos.y + 1f, pos.z);
-                islifted = false;
-            }
-            else
-            {
-                transform.position = new Vector3(pos.x, oldpos.y, pos.z);
-                islifted = true;
-            }
+            transform.position = new Vector3(pos.x, pos.y + 1f, pos.z);
+            islifted = false;
+        }
+        else
+        {
+            transform.position = new Vector3(pos.x, oldpos.y, pos.z);
+            islifted = true;
         }
     }
-
 }
