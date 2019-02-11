@@ -29,10 +29,10 @@ public class doorclosed : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-	    if (int.Parse(num1.text) == 3 &&
-	        int.Parse(num2.text) == 2 &&
-	        int.Parse(num3.text) == 4 &&
-	        int.Parse(num4.text) == 1)
+	    if (int.Parse(num1.text) == 5 &&
+	        int.Parse(num2.text) == 4 &&
+	        int.Parse(num3.text) == 2 &&
+	        int.Parse(num4.text) == 6)
 	    {
 		    islocked = false;
 		    transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().sprite =
