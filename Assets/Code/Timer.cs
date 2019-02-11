@@ -48,6 +48,6 @@ public class Timer : MonoBehaviour {
         int seconds = Mathf.FloorToInt(TimeRemaining - minutes * 60);
         string format = string.Format("{0:0}:{1:00}", minutes, seconds);
         GUIStyle.fontSize = 30;
-        GUI.Label(ScreenLocation, "Remaining Time: " + format, GUIStyle);
+        GUI.Label(ScreenLocation, "Time: " + format, GUIStyle);
     }
 }
