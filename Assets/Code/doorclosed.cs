@@ -29,6 +29,15 @@ public class doorclosed : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+	    if (GameObject.Find("bookcase").gameObject.GetComponent<moveright>().rights)
+	    {
+		    gameObject.GetComponent<BoxCollider2D>().enabled = false;
+	    }
+	    else
+	    {
+		    gameObject.GetComponent<BoxCollider2D>().enabled = true;
+	    }
+	    
 	    if (int.Parse(num1.text) == 5 &&
 	        int.Parse(num2.text) == 4 &&
 	        int.Parse(num3.text) == 7 &&
@@ -63,7 +72,7 @@ public class doorclosed : MonoBehaviour
 
 	void OnMouseUp()
 	{
-		if (!numpadlarge.gameObject.activeSelf)
+		if (!numpadlarge.gameObject.activeSelf && !GameObject.Find("bookcase").gameObject.GetComponent<moveright>().rights)
 		{
 			if (islocked)
 			{

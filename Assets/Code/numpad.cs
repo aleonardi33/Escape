@@ -19,11 +19,18 @@ public class numpad : MonoBehaviour
 
 	// Update is called once per frame
 	void Update () {
-		
+		if (GameObject.Find("bookcase").gameObject.GetComponent<moveright>().rights)
+		{
+			gameObject.GetComponent<BoxCollider2D>().enabled = false;
+		}
+		else
+		{
+			gameObject.GetComponent<BoxCollider2D>().enabled = true;
+		}
 	}
 	void OnMouseUp()
 	{		
-		if (!dooropen.gameObject.activeSelf)
+		if (!dooropen.gameObject.activeSelf && !GameObject.Find("bookcase").gameObject.GetComponent<moveright>().rights)
 		{
 			transform.GetChild(0).gameObject.GetComponent<largenumpad>().ToggleColliders(false);
 			GetComponent<AudioSource>().Play();

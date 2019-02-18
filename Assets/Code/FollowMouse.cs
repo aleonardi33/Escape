@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+//using NUnit.Framework;
 using UnityEngine;
 
 public class FollowMouse : MonoBehaviour
@@ -8,63 +9,58 @@ public class FollowMouse : MonoBehaviour
     private Vector3 mousepos;
     //what user must click on with the sprie
     public GameObject target;
-    //did the mouse as the sprite click on the target
-    private bool open;
     //sprite to set mouse to
-    public Sprite sprite;
+    private Sprite mysprite;
     //is the mouse set to the sprite
-    private bool mouse;
+    private bool mouseset;
     //width scale
-    public float width;
+    //public float width;
     //height scale
-    public float height;
+    //public float height;
     //has the mouse moved
     private Vector3 mousemove;
+   
+    private bool ontarget;
+    private Ray ray;
+    private RaycastHit hit;
 
     private void Start()
     {
-        open = false;
-        sprite.texture.width = (int)(sprite.texture.width*width);
-        sprite.texture.height = (int) (sprite.texture.height * height);
-
+        mysprite = gameObject.GetComponent<SpriteRenderer>().sprite;
+        mouseset = false;
+        ontarget = false;
+        //sprite.texture.width = (int)(sprite.texture.width*width);
+        //sprite.texture.height = (int) (sprite.texture.height * height);
     }
 
-    private void OnMouseDown()
+    private void OnMouseUp()
     {
-        Debug.Log("mousedown");
-        if (!mouse)
-        {
-            Vector2 center = new Vector2(sprite.texture.width/2, sprite.texture.height/2);
-            Cursor.SetCursor(sprite.texture, center, CursorMode.Auto);
-            gameObject.GetComponent<Renderer>().enabled = false;
-            mouse = true;
-            mousemove = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        }
-        
+        Vector2 center = new Vector2(mysprite.texture.width/2, mysprite.texture.height/2);
+        Cursor.SetCursor(mysprite.texture, center, CursorMode.ForceSoftware);
+        gameObject.GetComponent<Renderer>().enabled = false;
+        mousemove = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        mouseset = true;
     }
 
     private void Update()
     {
-        if (Input.GetMouseButtonDown(0) && Camera.main.ScreenToWorldPoint(Input.mousePosition) != mousemove)
+        if (Input.GetMouseButtonDown(0) && mouseset && Camera.main.ScreenToWorldPoint(Input.mousePosition) != mousemove)
         {
-            Debug.Log("updatemousedown");
-            if (mouse)
+            ontarget = target.GetComponent<mousetarget>().isoverme;
+            
+            if (ontarget)
             {
-                if (Camera.main.ScreenToWorldPoint(Input.mousePosition) == target.transform.position)
-                {
-                    Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
-                    Debug.Log("open");
-                    open = true;
-                    mouse = false;
-                }
-                else
-                {
-                    Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
-                    gameObject.GetComponent<Renderer>().enabled = true;
-                    mouse = false;
-                }
+                gameObject.SetActive(false);
             }
+            else
+            {
+                gameObject.GetComponent<Renderer>().enabled = true;
+            }
+
+            mouseset = false;
+            Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
         }
     }
+
 }
 

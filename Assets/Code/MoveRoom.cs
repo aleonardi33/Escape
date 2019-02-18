@@ -16,7 +16,7 @@ public class MoveRoom : MonoBehaviour {
     void Start ()
     {
 	    hasmoved = false;
-	    ScreenLocation = new Rect(Screen.width/2 - 270, Screen.height-20, Screen.width, 20);
+	    ScreenLocation = new Rect(Screen.width/2 - 215, Screen.height-30, Screen.width, 30);
     }
 	
 	// Update is called once per frame
@@ -39,8 +39,8 @@ public class MoveRoom : MonoBehaviour {
 	{
 		if (!hasmoved)
 		{
-			GUIStyle.fontSize = 12;
-			GUI.Label(ScreenLocation, "Use the arrow keys or A/D to move left or right across the room. Click on objects to interact with them.", GUIStyle);
+			GUIStyle.fontSize = 16;
+			GUI.Label(ScreenLocation, "Use the arrow keys or A/D to move left and right across the room.", GUIStyle);
 		}
 	}
 }

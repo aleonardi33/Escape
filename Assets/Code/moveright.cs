@@ -8,7 +8,7 @@ public class moveright : MonoBehaviour
     public Vector3 pos;
     public Vector3 oldpos;
     // Use this for initialization
-    private bool rights = true;
+    public bool rights = true;
 
     void Start()
     {
@@ -22,7 +22,7 @@ public class moveright : MonoBehaviour
         GetComponent<AudioSource>().Play();
         if (rights)
         {
-            transform.position = new Vector3(pos.x + 3, pos.y, pos.z);
+            transform.position = new Vector3(pos.x + 5, pos.y, pos.z);
             rights = false;
         }
         else

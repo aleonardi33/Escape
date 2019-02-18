@@ -8,6 +8,7 @@ TagManager:
   - uparrow
   - combonum
   - HasDeathSound
+  - key
   layers:
   - Default
   - TransparentFX
