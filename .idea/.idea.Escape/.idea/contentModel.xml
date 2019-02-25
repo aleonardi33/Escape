@@ -12,10 +12,14 @@
           <e p="closepatternpad.cs" t="Include" />
           <e p="closewindow.cs" t="Include" />
           <e p="DiningRoomClosed.cs" t="Include" />
+          <e p="disableallcolliders.cs" t="Include" />
           <e p="disappear.cs" t="Include" />
           <e p="doorclosed.cs" t="Include" />
+          <e p="ElevatorClosed.cs" t="Include" />
           <e p="falseonstartup.cs" t="Include" />
           <e p="FollowMouse.cs" t="Include" />
+          <e p="fridgecontroller.cs" t="Include" />
+          <e p="HallwayNumpad.cs" t="Include" />
           <e p="largenumpad.cs" t="Include" />
           <e p="Lift.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
@@ -27,6 +31,9 @@
           <e p="PatternPad.cs" t="Include" />
           <e p="patternpadlarge.cs" t="Include" />
           <e p="roomtracker.cs" t="Include" />
+          <e p="roomtracker1.cs" t="Include" />
+          <e p="runonclick.cs" t="Include" />
+          <e p="showinside.cs" t="Include" />
           <e p="sinkcontroller.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
         </e>
@@ -118,7 +125,6 @@
       </e>
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Escape.-476548215.00" t="ExcludeRecursive" />
-    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Escape.-753607987.00" t="ExcludeRecursive" />
   </component>
 </project>
