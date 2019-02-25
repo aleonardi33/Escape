@@ -5,7 +5,7 @@ using UnityEngine;
 public class MoveRoom : MonoBehaviour {
     
 	public GUIStyle GUIStyle;
-	private Rect ScreenLocation;
+	public Rect ScreenLocation;
 	
     public float speed = 5.0f;
 	public float leftlimit = -3;
@@ -16,7 +16,7 @@ public class MoveRoom : MonoBehaviour {
     void Start ()
     {
 	    hasmoved = false;
-	    ScreenLocation = new Rect(Screen.width/2 - 215, Screen.height-30, Screen.width, 30);
+	    //ScreenLocation = new Rect(Screen.width/2 - 215, 30, Screen.width, 30);
     }
 	
 	// Update is called once per frame
@@ -37,10 +37,16 @@ public class MoveRoom : MonoBehaviour {
 
 	void OnGUI()
 	{
+		/**
 		if (!hasmoved)
 		{
-			GUIStyle.fontSize = 16;
-			GUI.Label(ScreenLocation, "Use the arrow keys or A/D to move left and right across the room.", GUIStyle);
+			if (FindObjectOfType<roomtracker>().gameObject.GetComponent<roomtracker>().nextSceneBuildIndex == 3)
+			{
+				GUIStyle.fontSize = 16;
+				GUI.Label(ScreenLocation, "Use the arrow keys or A/D to move left and right across the room.",
+					GUIStyle);
+			}
 		}
+		**/
 	}
 }

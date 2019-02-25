@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class roomtracker : MonoBehaviour
 {
-    int nextSceneBuildIndex = 0;
+    private int nextSceneBuildIndex = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,11 +15,14 @@ public class roomtracker : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        nextSceneBuildIndex = SceneManager.GetActiveScene().buildIndex;
     }
 
     void OnMouseUp()
     {
-        SceneManager.LoadScene(nextSceneBuildIndex + 1);
+        if (this.enabled)
+        {
+            SceneManager.LoadScene(nextSceneBuildIndex + 1);
+        }
     }
 }

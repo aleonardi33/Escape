@@ -33,6 +33,8 @@ public class numpad : MonoBehaviour
 		if (!dooropen.gameObject.activeSelf && !GameObject.Find("bookcase").gameObject.GetComponent<moveright>().rights)
 		{
 			transform.GetChild(0).gameObject.GetComponent<largenumpad>().ToggleColliders(false);
+			GameObject.Find("bookcase").gameObject.GetComponent<BoxCollider2D>().enabled = false;
+			GameObject.Find("doorclosed").gameObject.GetComponent<BoxCollider2D>().enabled = false;
 			GetComponent<AudioSource>().Play();
 			foreach (Transform child in transform)
 			{

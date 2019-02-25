@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class openclose : MonoBehaviour
 {
-    private bool isopen;
+    public bool isopen;
     private SpriteRenderer myren;
 
     public Sprite opensprite;
@@ -20,17 +20,24 @@ public class openclose : MonoBehaviour
 
     void OnMouseUp()
     {
-        if (isopen)
+        if (this.enabled == true)
         {
-            isopen = false;
-            myren.sprite = closedsprite;
+            if (isopen)
+            {
+                if (gameObject.CompareTag("door"))
+                {
+                    //gameObject.GetComponent<roomtracker>().enabled = true;
+                    gameObject.GetComponent<roomtracker1>().enabled = true; //temporary workaround. will probably end up just disabling the collider later.
+                    this.enabled = false;
+                }
+                isopen = false;
+                myren.sprite = closedsprite;
+            }
+            else
+            {
+                isopen = true;
+                myren.sprite = opensprite;
+            }
         }
-        else
-        {
-            isopen = true;
-            myren.sprite = opensprite;
-        }
-
-
     }
 }

@@ -33,7 +33,7 @@ public class doorclosed : MonoBehaviour
 	    {
 		    gameObject.GetComponent<BoxCollider2D>().enabled = false;
 	    }
-	    else
+	    else if(!GameObject.Find("numpadlarge"))
 	    {
 		    gameObject.GetComponent<BoxCollider2D>().enabled = true;
 	    }

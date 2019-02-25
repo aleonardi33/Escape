@@ -9,6 +9,10 @@ TagManager:
   - combonum
   - HasDeathSound
   - key
+  - ChangeSpriteOnTarget
+  - OpenOnTarget
+  - DestroyOnTarget
+  - door
   layers:
   - Default
   - TransparentFX
