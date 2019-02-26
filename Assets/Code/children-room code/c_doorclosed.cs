@@ -30,7 +30,7 @@ public class c_doorclosed : MonoBehaviour
     void Update()
     {
 
-		    gameObject.GetComponent<BoxCollider2D>().enabled = true;
+		    //gameObject.GetComponent<BoxCollider2D>().enabled = true;
 	    
 	    
 	    if (int.Parse(num1.text) == 3 &&

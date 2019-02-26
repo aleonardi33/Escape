@@ -978,6 +978,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9315777dec85409a90c1c4616aee1c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isopen: 0
   opensprite: {fileID: 21300000, guid: 98cc61afa4f8e4942b4fbb2e9b40cf64, type: 3}
   closedsprite: {fileID: 21300000, guid: 1d370a45895f7eb4580487380f49f160, type: 3}
 --- !u!1 &303440707
@@ -1120,6 +1121,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9315777dec85409a90c1c4616aee1c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isopen: 0
   opensprite: {fileID: 21300000, guid: f8b0b2a4cb97e8f4dbc5c11b1dca7db5, type: 3}
   closedsprite: {fileID: 21300000, guid: 2a5835683b2712a4fac4160a91a361a9, type: 3}
 --- !u!1 &307267697
@@ -1724,6 +1726,12 @@ MonoBehaviour:
     m_FixedHeight: 0
     m_StretchWidth: 1
     m_StretchHeight: 0
+  ScreenLocation:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
   speed: 5
   leftlimit: -3
   rightlimit: 22
@@ -2820,6 +2828,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9315777dec85409a90c1c4616aee1c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isopen: 0
   opensprite: {fileID: 21300000, guid: 4b2abf932f2365244b554d2569f8f5f2, type: 3}
   closedsprite: {fileID: 21300000, guid: f92dffb575be2b2409bb9d48f78f99f0, type: 3}
 --- !u!60 &1060854417
@@ -3240,6 +3249,7 @@ GameObject:
   - component: {fileID: 1264098972}
   - component: {fileID: 1264098971}
   - component: {fileID: 1264098970}
+  - component: {fileID: 1264098973}
   m_Layer: 0
   m_Name: dooropen
   m_TagString: Untagged
@@ -3356,6 +3366,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1264098973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1264098968}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 214fe6f07b3344f1b9d24c6a3eab6456, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1311357172
 GameObject:
   m_ObjectHideFlags: 0
@@ -3957,6 +3979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9315777dec85409a90c1c4616aee1c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isopen: 0
   opensprite: {fileID: 21300000, guid: e04bda7688e663a4c8d4bb18f099a745, type: 3}
   closedsprite: {fileID: 21300000, guid: bed7f6c40334777449d2d52ecb133d33, type: 3}
 --- !u!1 &1501947001
@@ -4254,7 +4277,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1598402371}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.43, y: 1.85, z: 0}
+  m_LocalPosition: {x: -9.39, y: 2.2, z: 0}
   m_LocalScale: {x: 1.368, y: 1.497, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

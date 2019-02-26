@@ -27,6 +27,7 @@ public class c_numpad : MonoBehaviour
 	{		
 
 			transform.GetChild(0).gameObject.GetComponent<largenumpad>().ToggleColliders(false);
+			GameObject.Find("doorclosed").gameObject.GetComponent<BoxCollider2D>().enabled = false;
 			GetComponent<AudioSource>().Play();
 			foreach (Transform child in transform)
 			{

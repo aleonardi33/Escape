@@ -20,6 +20,8 @@ public class closewindow : MonoBehaviour {
 		if (GameObject.Find("bookcase"))
 		{
 			GameObject.Find("bookcase").gameObject.GetComponent<BoxCollider2D>().enabled = true;
+		}
+		if(GameObject.Find("doorclosed")){
 			GameObject.Find("doorclosed").gameObject.GetComponent<BoxCollider2D>().enabled = true;
 		}
 		transform.parent.gameObject.GetComponent<largenumpad>().ToggleColliders(true);
