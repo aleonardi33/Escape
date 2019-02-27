@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Hallway.unity
     guid: 9ffe68dc93898e944b8b9574bd6e37f4
   - enabled: 1
-    path: Assets/Scenes/Room2 - Copy.unity
+    path: Assets/Scenes/Childrens Room.unity
     guid: 3a20b5331b7329b4c9e7b120d3b07798
   - enabled: 1
     path: Assets/Scenes/Kitchen.unity
