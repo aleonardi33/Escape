@@ -10,7 +10,7 @@ public class HallwayNumpad : MonoBehaviour
 	{
 		foreach (Transform sibling in transform.parent)
 		{
-			if (sibling.name.Equals("elevator-open"))
+			if (sibling.name.Equals("dooropen"))
 			{
 				dooropen = sibling;
 			}
