@@ -2,24 +2,32 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
-
-public class Timer : MonoBehaviour {
+using UnityEngine.SceneManagement;
+using UnityEngine.Serialization;
+using UnityEngine.UI;
+public class Timer : MonoBehaviour
+{
 
     public GUIStyle GUIStyle;
+
 
     /// <summary>
     /// Screen location for the time.
     /// </summary>
 
     public Rect ScreenLocation;
-    
+
     public float secondsleft = 120f;
-     
+
     void Update()
     {
-        if(secondsleft > 1 && GameObject.Find("dooropen") == null)
+        if (secondsleft > 1 && GameObject.Find("dooropen") == null)
         {
             secondsleft -= Time.deltaTime;
+        }
+        if (secondsleft < 1 && GameObject.Find("dooropen") == null)
+        {
+            SceneManager.LoadScene("GameOver");
         }
     }
 
