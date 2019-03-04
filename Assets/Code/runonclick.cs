@@ -82,7 +82,7 @@ public class runonclick : MonoBehaviour
         if(gameObject.CompareTag("OpenOnTarget") && spriteindex <= mysprites.Length && transform.GetComponent<openclose>().enabled && transform.GetComponent<openclose>().isopen)
         {
             GameObject.Find("freezer").gameObject.GetComponent<BoxCollider2D>().enabled = true;
-            Debug.Log(GameObject.Find("freezer"));
+            //Debug.Log(GameObject.Find("freezer"));
             transform.GetChild(0).gameObject.GetComponent<SpriteRenderer>().sprite = mysprites[spriteindex];
             spriteindex += 1;
             if (transform.GetChild(0).gameObject.GetComponent<SpriteRenderer>().sprite.name == "mysterymeatburnt 1")

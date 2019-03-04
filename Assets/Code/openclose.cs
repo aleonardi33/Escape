@@ -22,14 +22,14 @@ public class openclose : MonoBehaviour
     {
         if (this.enabled == true)
         {
+            if (gameObject.CompareTag("door"))
+            {
+                transform.GetChild(1).gameObject.SetActive(true);
+                this.enabled = false;
+                gameObject.GetComponent<BoxCollider2D>().enabled = false;
+            }
             if (isopen)
             {
-                if (gameObject.CompareTag("door"))
-                {
-                    //gameObject.GetComponent<roomtracker>().enabled = true;
-                    gameObject.GetComponent<roomtracker1>().enabled = true; //temporary workaround. will probably end up just disabling the collider later.
-                    this.enabled = false;
-                }
                 isopen = false;
                 myren.sprite = closedsprite;
             }
