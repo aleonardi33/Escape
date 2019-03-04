@@ -1421,8 +1421,8 @@ MonoBehaviour:
     width: 0
     height: 0
   speed: 5
-  leftlimit: -1
-  rightlimit: 9
+  leftlimit: -0.8
+  rightlimit: 7
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
