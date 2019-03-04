@@ -18,11 +18,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Childrens Room.unity
     guid: 3a20b5331b7329b4c9e7b120d3b07798
   - enabled: 1
+    path: Assets/Scenes/Dining Room.unity
+    guid: 95af884be7b7141d188dde8ae223e916
+  - enabled: 1
     path: Assets/Scenes/Kitchen.unity
     guid: 5128bd121223146a8bdf12aaf7dc78aa
-  - enabled: 1
-    path: Assets/Scenes/Room3.unity
-    guid: 95af884be7b7141d188dde8ae223e916
   - enabled: 1
     path: Assets/Scenes/LivingRoom.unity
     guid: c392ecd3d3a7f4bc5be72cf835ee0ba8
