@@ -29,7 +29,8 @@ public class fridgecontroller : MonoBehaviour
         gameObject.GetComponent<openclose>().enabled = false;
         transform.parent.GetComponent<openclose>().enabled = false;
         transform.parent.GetComponent<BoxCollider2D>().enabled = false;
-        currnum = 0;
+        //currnum = 0;
+        currnum = 1;
     }
 
     // Update is called once per frame
@@ -74,20 +75,20 @@ public class fridgecontroller : MonoBehaviour
             }
             else
             {
-                currnum = 0;
+                currnum = 1;
             }
 
-            if (currnum == 0)
+            if (currnum == 1)
             {
-                openo.SetActive(true);
+                //openo.SetActive(true);
                 openp.SetActive(true);
                 opene.SetActive(true);
                 openn.SetActive(true);
-                openo.GetComponent<Renderer>().enabled = true;
+                //openo.GetComponent<Renderer>().enabled = true;
                 openp.GetComponent<Renderer>().enabled = true;
                 opene.GetComponent<Renderer>().enabled = true;
                 openn.GetComponent<Renderer>().enabled = true;
-                oset.SetActive(false);
+                //oset.SetActive(false);
                 pset.SetActive(false);
                 eset.SetActive(false);
                 nset.SetActive(false);
