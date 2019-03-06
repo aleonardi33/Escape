@@ -12,7 +12,7 @@ using System.Linq;
 public class DontDestroy : MonoBehaviour
 {
     Button startbutton;
-    string filePath = Path.GetFullPath("Assets/scores.csv");
+    string filePath;//Path.GetFullPath("Assets/scores.csv");
     bool started = false;
     public static Stopwatch gameClock = new Stopwatch();
     TimeSpan elapsed;
@@ -20,6 +20,7 @@ public class DontDestroy : MonoBehaviour
     int check = 0;
     void Awake()
     {
+        filePath = Application.dataPath + "/scores.csv";
         GameObject[] objs = GameObject.FindGameObjectsWithTag("stopwatch");
         DontDestroyOnLoad(this.gameObject);
     }
@@ -81,8 +82,10 @@ public class DontDestroy : MonoBehaviour
 
         File.WriteAllLines(filePath, (lines.Take(1).Concat(sorted)).ToArray());
     }
-    void Restart(){
+    void Restart()
+    {
         gameClock.Start();
         check = 0;
     }
+
 }
