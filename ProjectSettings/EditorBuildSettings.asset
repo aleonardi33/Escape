@@ -26,16 +26,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LivingRoom.unity
     guid: c392ecd3d3a7f4bc5be72cf835ee0ba8
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/FInal ROom.unity
     guid: c5ab6d66d36ba480883cf3abd2f444a0
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: 754cda1f9a548914abde4a7bf79b6806
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Right.unity
     guid: 336618eed930046989e58a887c5e9515
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Left.unity
     guid: b5acc2d986f8d40bab51ab25b17189df
   m_configObjects: {}

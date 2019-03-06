@@ -13,6 +13,8 @@ TagManager:
   - OpenOnTarget
   - DestroyOnTarget
   - door
+  - stopwatch
+  - start
   layers:
   - Default
   - TransparentFX

@@ -885,6 +885,49 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &613354405
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 613354407}
+  - component: {fileID: 613354406}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: stopwatch
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &613354406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613354405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12548407f2c80e94aa41bc9f32d957e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &613354407
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613354405}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.87, y: 4.25, z: -0.035730712}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &614678181
 GameObject:
   m_ObjectHideFlags: 0
@@ -1170,7 +1213,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a79af746e928fac4e955770729a15117, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cursor: {fileID: 0}
 --- !u!1 &648063494
 GameObject:
   m_ObjectHideFlags: 0
@@ -2086,7 +2128,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 279dd90e4dd12f942b4e27c6fa259f19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fade: {fileID: 0}
 --- !u!1 &1249681953
 GameObject:
   m_ObjectHideFlags: 0
