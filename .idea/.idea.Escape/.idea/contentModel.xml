@@ -19,6 +19,7 @@
           <e p="DiningRoomClosed.cs" t="Include" />
           <e p="disableallcolliders.cs" t="Include" />
           <e p="disappear.cs" t="Include" />
+          <e p="DontDestroy.cs" t="Include" />
           <e p="doorclosed.cs" t="Include" />
           <e p="doorclosedfinal.cs" t="Include" />
           <e p="ElevatorClosed.cs" t="Include" />
@@ -27,6 +28,7 @@
           <e p="fridgecontroller.cs" t="Include" />
           <e p="HallwayNumpad.cs" t="Include" />
           <e p="largenumpad.cs" t="Include" />
+          <e p="letterpad.cs" t="Include" />
           <e p="Lift.cs" t="Include" />
           <e p="MainMenu.cs" t="Include" />
           <e p="mousetarget.cs" t="Include" />
