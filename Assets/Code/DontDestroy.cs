@@ -78,7 +78,7 @@ public class DontDestroy : MonoBehaviour
         })
                     .OrderBy(x => x.SortKey)
                     .Select(x => x.Line);
-        UnityEngine.Debug.Log(lines.Take(1));
+        //UnityEngine.Debug.Log(lines.Take(1));
 
         File.WriteAllLines(filePath, (lines.Take(1).Concat(sorted)).ToArray());
     }

@@ -13,8 +13,7 @@ TagManager:
   - OpenOnTarget
   - DestroyOnTarget
   - door
-  - stopwatch
-  - start
+  - stayopen
   layers:
   - Default
   - TransparentFX
@@ -29,7 +28,7 @@ TagManager:
   - background
   - on top of everything
   - even more on top
-  - bushes
+  - 
   - 
   - 
   - 

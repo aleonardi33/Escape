@@ -341,7 +341,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 219774940}
   m_LocalRotation: {x: -0, y: -0, z: 0.08696749, w: 0.9962112}
-  m_LocalPosition: {x: 0.0113513535, y: -0.11943244, z: 0}
+  m_LocalPosition: {x: 0.0232, y: -0.1131, z: 0}
   m_LocalScale: {x: 0.04, y: 0.04, z: 1}
   m_Children: []
   m_Father: {fileID: 446938795}
@@ -989,7 +989,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5477c9cb19600244ab4db54b3834ce5c, type: 3}
   m_Name: 
@@ -1918,7 +1918,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1035815807}
   m_LocalRotation: {x: -0, y: -0, z: -0.14887987, w: 0.9888553}
-  m_LocalPosition: {x: 0.0535135, y: -0.06997298, z: 0}
+  m_LocalPosition: {x: 0.0496, y: -0.0802, z: 0}
   m_LocalScale: {x: 0.04, y: 0.04, z: 1}
   m_Children: []
   m_Father: {fileID: 446938795}
@@ -3183,7 +3183,7 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1487283066}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -3209,7 +3209,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1487283066}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b9315777dec85409a90c1c4616aee1c9, type: 3}
   m_Name: 
@@ -3469,7 +3469,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1797362562
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3554,7 +3554,7 @@ CircleCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1797362561}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -3694,7 +3694,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2020941809}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e26e1180b4ab24cf49ac86f531b7be42, type: 3}
   m_Name: 
@@ -3762,7 +3762,7 @@ GameObject:
   - component: {fileID: 2098188206}
   m_Layer: 0
   m_Name: fridge
-  m_TagString: Untagged
+  m_TagString: stayopen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

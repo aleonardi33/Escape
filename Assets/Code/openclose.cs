@@ -22,13 +22,26 @@ public class openclose : MonoBehaviour
     {
         if (this.enabled == true)
         {
-            if (gameObject.CompareTag("door"))
+            if (gameObject.CompareTag("stayopen"))
+            {
+                if (isopen)
+                {
+                    gameObject.GetComponent<BoxCollider2D>().enabled = false;
+                    this.enabled = false;
+                }
+                else
+                {
+                    isopen = true;
+                    myren.sprite = opensprite;
+                }
+            }
+            else if (gameObject.CompareTag("door"))
             {
                 transform.GetChild(1).gameObject.SetActive(true);
                 this.enabled = false;
                 gameObject.GetComponent<BoxCollider2D>().enabled = false;
             }
-            if (isopen)
+            else if (isopen)
             {
                 isopen = false;
                 myren.sprite = closedsprite;
