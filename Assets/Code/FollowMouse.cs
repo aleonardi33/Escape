@@ -71,7 +71,7 @@ public class FollowMouse : MonoBehaviour
                 }
 
                 mouseset = false;
-                Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
+                //Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
             }
             else if(gameObject.CompareTag("ChangeSpriteOnTarget") && tochangeto != null && newtarget != null)
             {
@@ -83,7 +83,7 @@ public class FollowMouse : MonoBehaviour
                         gameObject.GetComponent<Renderer>().enabled = true;
                         target = oldtarget;
                         mouseset = false;
-                        Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
+                        //Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
                     }
                     else
                     {
@@ -98,10 +98,12 @@ public class FollowMouse : MonoBehaviour
                     gameObject.GetComponent<Renderer>().enabled = true;
                     target = oldtarget;
                     mouseset = false;
-                    Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
+                    //Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
                 }
             }
         }
+        GameObject.FindObjectOfType<cursorcontroller>().GetComponent<cursorcontroller>()
+            .holdingsomething = mouseset;
     }
 
 }

@@ -9,6 +9,7 @@
           <e p="arrow.cs" t="Include" />
           <e p="bathroomdoor.cs" t="Include" />
           <e p="ChangeColor.cs" t="Include" />
+          <e p="changemouseonme.cs" t="Include" />
           <e p="children-room code" t="Include">
             <e p="c_doorclosed.cs" t="Include" />
             <e p="c_largenumpad.cs" t="Include" />
@@ -16,6 +17,7 @@
           </e>
           <e p="closepatternpad.cs" t="Include" />
           <e p="closewindow.cs" t="Include" />
+          <e p="cursorcontroller.cs" t="Include" />
           <e p="DiningRoomClosed.cs" t="Include" />
           <e p="disableallcolliders.cs" t="Include" />
           <e p="disappear.cs" t="Include" />
