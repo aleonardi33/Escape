@@ -183,8 +183,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3.7, y: 75}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 0, y: 200}
+  m_SizeDelta: {x: 350, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &655112967
 MonoBehaviour:
@@ -208,15 +208,16 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Game Over
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
-  m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: f688f8ea22784594dabd50cdb0cb3dc4, type: 2}
+  m_sharedMaterial: {fileID: 21835963410948166, guid: f688f8ea22784594dabd50cdb0cb3dc4,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190335
+  m_fontColor: {r: 1, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -366,10 +367,10 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_text: Start Over
+  m_text: Main Menu
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: ee8fb81d5b6893d4681f30d0d82a6d25, type: 2}
-  m_sharedMaterial: {fileID: 21320127348911252, guid: ee8fb81d5b6893d4681f30d0d82a6d25,
+  m_fontAsset: {fileID: 11400000, guid: 45e7a12dfb98d7b4dbba2c5ddd7ebfa9, type: 2}
+  m_sharedMaterial: {fileID: 21835963410948166, guid: 45e7a12dfb98d7b4dbba2c5ddd7ebfa9,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -433,10 +434,10 @@ MonoBehaviour:
   m_firstVisibleCharacter: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 102.00598, y: 28.393412, z: 100.83098, w: 27.341818}
   m_textInfo:
     textComponent: {fileID: 761588855}
-    characterCount: 10
+    characterCount: 9
     spriteCount: 0
     spaceCount: 1
     wordCount: 2
@@ -506,7 +507,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -46}
+  m_AnchoredPosition: {x: 400, y: -250}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1044014773
@@ -706,8 +707,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 46}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: -400, y: -250}
+  m_SizeDelta: {x: 170, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1720747426
 MonoBehaviour:
@@ -977,7 +978,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1939087262}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 279dd90e4dd12f942b4e27c6fa259f19, type: 3}
+  m_Script: {fileID: 11500000, guid: ef9e44fed724e47459fc9194605cd11f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2087506242
@@ -1039,8 +1040,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Quit
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: ee8fb81d5b6893d4681f30d0d82a6d25, type: 2}
-  m_sharedMaterial: {fileID: 21320127348911252, guid: ee8fb81d5b6893d4681f30d0d82a6d25,
+  m_fontAsset: {fileID: 11400000, guid: 45e7a12dfb98d7b4dbba2c5ddd7ebfa9, type: 2}
+  m_sharedMaterial: {fileID: 21835963410948166, guid: 45e7a12dfb98d7b4dbba2c5ddd7ebfa9,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1104,7 +1105,7 @@ MonoBehaviour:
   m_firstVisibleCharacter: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 103.98199, y: 29.409039, z: 102.93166, w: 23.107086}
   m_textInfo:
     textComponent: {fileID: 2087506244}
     characterCount: 4
