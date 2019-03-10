@@ -39,9 +39,9 @@ public class doorclosed : MonoBehaviour
 	    }
 	    
 	    if (int.Parse(num1.text) == 5 &&
-	        int.Parse(num2.text) == 4 &&
-	        int.Parse(num3.text) == 7 &&
-	        int.Parse(num4.text) == 9)
+	        int.Parse(num2.text) == 5 &&
+	        int.Parse(num3.text) == 4 &&
+	        int.Parse(num4.text) == 7)
 	    {
 		    islocked = false;
 		    transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().sprite =

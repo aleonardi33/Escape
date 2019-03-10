@@ -26,6 +26,7 @@
           <e p="falseonstartup.cs" t="Include" />
           <e p="FollowMouse.cs" t="Include" />
           <e p="fridgecontroller.cs" t="Include" />
+          <e p="GameOverMenu.cs" t="Include" />
           <e p="HallwayNumpad.cs" t="Include" />
           <e p="largenumpad.cs" t="Include" />
           <e p="letterpad.cs" t="Include" />

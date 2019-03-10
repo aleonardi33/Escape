@@ -18,27 +18,27 @@
     <session id="1294351644">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="20" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="4" />
           <entry key="project.open.time.12" value="6" />
-          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="9624" />
+          <entry key="cs" value="9627" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="9624" />
+          <entry key="C#" value="9627" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -87,20 +87,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Code/doorclosedfinal.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Code/doorclosed.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
-              <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="41" />
+            <state relative-caret-position="321">
+              <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+              <folding>
+                <marker date="1552253879516" expanded="false" signature="6:123" ph="..." />
+                <marker date="1552253879516" expanded="true" signature="164:2546" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="444:636" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="694:2096" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="782:860" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="906:983" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="1139:1622" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="1493:1615" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="1632:2089" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="1962:2082" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="2115:2544" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="2236:2541" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="2257:2347" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="2356:2537" ph="{...}" />
+                <marker date="1552253879516" expanded="true" signature="2386:2501" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -164,7 +172,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/DontDestroy.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1050">
@@ -253,6 +261,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Code/patternpadlarge.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/largenumpad.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/DiningRoomClosed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/showinside.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/arrow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/closepatternpad.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Code/roomright.cs" root0="FORCE_HIGHLIGHTING" />
@@ -288,7 +297,6 @@
         <option value="$PROJECT_DIR$/Assets/Code/ChangeColor.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/DiningRoomClosed.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/roomtracker1.cs" />
-        <option value="$PROJECT_DIR$/Assets/Code/doorclosed.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/numpad.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/closewindow.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/roomleft.cs" />
@@ -298,6 +306,7 @@
         <option value="$PROJECT_DIR$/Assets/Code/openclose.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/children-room code/c_numpad.cs" />
         <option value="$PROJECT_DIR$/Assets/Code/DontDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/doorclosed.cs" />
       </list>
     </option>
   </component>
@@ -319,9 +328,6 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -338,6 +344,9 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -410,11 +419,14 @@
       <workItem from="1551744275134" duration="1006000" />
       <workItem from="1551745937772" duration="433000" />
       <workItem from="1551916954743" duration="161000" />
+      <workItem from="1552248789890" duration="351000" />
+      <workItem from="1552249560372" duration="3000" />
+      <workItem from="1552253862377" duration="85000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55198000" />
+    <option name="totallyTimeSpent" value="55637000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -429,7 +441,7 @@
     <frame x="120" y="23" width="1111" height="699" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2993452" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31618336" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -608,12 +620,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Code/doorclosed.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="16" selection-start-line="89" selection-start-column="16" selection-end-line="89" selection-end-column="41" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/showinside.cs">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/roomtracker.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -645,6 +653,26 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/children-room code/c_numpad.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding>
+            <marker date="1551746084919" expanded="false" signature="6:78" ph="..." />
+            <marker date="1551746084919" expanded="true" signature="117:794" ph="{...}" />
+            <marker date="1551746084919" expanded="true" signature="194:332" ph="{...}" />
+            <marker date="1551746084919" expanded="true" signature="247:329" ph="{...}" />
+            <marker date="1551746084919" expanded="true" signature="291:325" ph="{...}" />
+            <marker date="1551746084919" expanded="true" signature="386:454" ph="{...}" />
+            <marker date="1551746084919" expanded="true" signature="472:792" ph="{...}" />
+            <marker date="1551746084919" expanded="true" signature="738:786" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/scores.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/openclose.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -680,26 +708,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Code/children-room code/c_numpad.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-          <folding>
-            <marker date="1551746084919" expanded="false" signature="6:78" ph="..." />
-            <marker date="1551746084919" expanded="true" signature="117:794" ph="{...}" />
-            <marker date="1551746084919" expanded="true" signature="194:332" ph="{...}" />
-            <marker date="1551746084919" expanded="true" signature="247:329" ph="{...}" />
-            <marker date="1551746084919" expanded="true" signature="291:325" ph="{...}" />
-            <marker date="1551746084919" expanded="true" signature="386:454" ph="{...}" />
-            <marker date="1551746084919" expanded="true" signature="472:792" ph="{...}" />
-            <marker date="1551746084919" expanded="true" signature="738:786" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/scores.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/DontDestroy.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
@@ -719,6 +727,30 @@
             <marker date="1551917052570" expanded="true" signature="2222:2683" ph="{...}" />
             <marker date="1551917052570" expanded="true" signature="2370:2460" ph="{...}" />
             <marker date="1551917052570" expanded="true" signature="2702:2760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/doorclosed.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+          <folding>
+            <marker date="1552253879516" expanded="false" signature="6:123" ph="..." />
+            <marker date="1552253879516" expanded="true" signature="164:2546" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="444:636" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="694:2096" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="782:860" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="906:983" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="1139:1622" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="1493:1615" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="1632:2089" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="1962:2082" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="2115:2544" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="2236:2541" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="2257:2347" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="2356:2537" ph="{...}" />
+            <marker date="1552253879516" expanded="true" signature="2386:2501" ph="{...}" />
           </folding>
         </state>
       </provider>
