@@ -53,8 +53,14 @@ public class Timekeeper : MonoBehaviour
             startbutton.onClick.AddListener(Restart);
             gameEnded = true;
             float finTime = TimeSpanToFloat(elapsed);
-            AppendToCsv(finTime);
-            ReadCsv();
+            string append = (Math.Round(finTime, 3)).ToString() + "," + username + "\n";
+            AppendToCsv(append);
+            string[] top_scores = ReadCsv();
+            
+            if (top_scores.Contains(append)==false)
+            {
+
+            }
         }
     }
     float TimeSpanToFloat(TimeSpan e)
@@ -63,16 +69,20 @@ public class Timekeeper : MonoBehaviour
         time = (float)e.TotalSeconds;
         return time;
     }
-    void AppendToCsv(float gameTime)
+    void AppendToCsv(string append)
     {
-        string append = (Math.Round(gameTime, 3)).ToString() + ","+ username + "\n";
         //implement username maker at beginning of the game
         //implement scrolling scoreboard from reading CSV
         File.AppendAllText(filePath, append);
     }
-    void ReadCsv()
+    string[] ReadCsv()
     {
         string[] lines = File.ReadAllLines(filePath);
+        string[] ret = { };
+        for (int i = 1; i <= 3; i++)
+        {
+            ret[i] = lines[i];
+        }
         var data = lines.Skip(1);
         var sorted = data.Select(line => new
         {
@@ -83,13 +93,15 @@ public class Timekeeper : MonoBehaviour
                     .Select(x => x.Line);
 
         File.WriteAllLines(filePath, (lines.Take(1).Concat(sorted)).ToArray());
+        return ret;
     }
     void Restart()
     {
         gameEnded = false;
         started = false;
     }
-    public void receiveName(string name){
+    public void receiveName(string name)
+    {
         username = name;
         Debug.Log(username);
     }
