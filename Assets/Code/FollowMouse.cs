@@ -12,7 +12,7 @@ public class FollowMouse : MonoBehaviour
     //sprite to set mouse to
     private Sprite mysprite;
     //is the mouse set to the sprite
-    private bool mouseset;
+    public bool mouseset;
     //has the mouse moved
     private Vector3 mousemove;
    

@@ -264,6 +264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1382873883}
+  mouseset: 0
   tochangeto: {fileID: 0}
   newtarget: {fileID: 0}
 --- !u!1 &219774940
@@ -360,6 +361,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 446938794}
+  mouseset: 0
   tochangeto: {fileID: 0}
   newtarget: {fileID: 0}
 --- !u!61 &219774944
@@ -482,6 +484,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 446938794}
+  mouseset: 0
   tochangeto: {fileID: 0}
   newtarget: {fileID: 0}
 --- !u!61 &280602534
@@ -626,6 +629,7 @@ MonoBehaviour:
   mysprites: []
   wasprotecting: {fileID: 1301022909}
   wasprotecting2: {fileID: 0}
+  gotime: 0
 --- !u!61 &308149153
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1419,6 +1423,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 540800270}
+  mouseset: 0
   tochangeto: {fileID: 21300000, guid: 33ad2e58a8d0f4822949b64143ae3aea, type: 3}
   newtarget: {fileID: 1414635399}
 --- !u!61 &724645092
@@ -1494,6 +1499,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1501100626}
+  mouseset: 0
   tochangeto: {fileID: 0}
   newtarget: {fileID: 0}
 --- !u!61 &726515067
@@ -1937,6 +1943,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 446938794}
+  mouseset: 0
   tochangeto: {fileID: 0}
   newtarget: {fileID: 0}
 --- !u!61 &1035815811
@@ -2447,6 +2454,7 @@ GameObject:
   - component: {fileID: 1382873890}
   - component: {fileID: 1382873889}
   - component: {fileID: 1382873888}
+  - component: {fileID: 1382873891}
   m_Layer: 0
   m_Name: oven
   m_TagString: OpenOnTarget
@@ -2593,6 +2601,7 @@ MonoBehaviour:
   mysprites: []
   wasprotecting: {fileID: 0}
   wasprotecting2: {fileID: 0}
+  gotime: 0
 --- !u!114 &1382873890
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2606,6 +2615,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isoverme: 0
+--- !u!114 &1382873891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1382873883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c56f667c6c214e36bee5e7172096c44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isopen: 0
+  opensprite: {fileID: 21300000, guid: fe4765742d4cf476facd449c85be0542, type: 3}
+  closedsprite: {fileID: 21300000, guid: 1c9fded47ec144a7c99c8305735ff861, type: 3}
 --- !u!1 &1394714698
 GameObject:
   m_ObjectHideFlags: 0
@@ -2815,6 +2839,7 @@ MonoBehaviour:
   mysprites: []
   wasprotecting: {fileID: 0}
   wasprotecting2: {fileID: 0}
+  gotime: 0
 --- !u!61 &1414635404
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2948,6 +2973,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 308149148}
+  mouseset: 0
   tochangeto: {fileID: 0}
   newtarget: {fileID: 0}
 --- !u!61 &1459480305
@@ -3373,6 +3399,7 @@ MonoBehaviour:
   mysprites: []
   wasprotecting: {fileID: 1022626552}
   wasprotecting2: {fileID: 827342394}
+  gotime: 0
 --- !u!1 &1667212672
 GameObject:
   m_ObjectHideFlags: 0
@@ -3559,6 +3586,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 446938794}
+  mouseset: 0
   tochangeto: {fileID: 0}
   newtarget: {fileID: 0}
 --- !u!58 &1797362565
@@ -3899,3 +3927,82 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   myobj: {fileID: 1667212672}
+--- !u!1 &2140216808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2140216810}
+  - component: {fileID: 2140216809}
+  m_Layer: 0
+  m_Name: clock
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &2140216809
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2140216808}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 1915866995
+  m_SortingLayer: -1
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300000, guid: 9303d3edc40194d1d975b40b743364f4, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.13, y: 0.13}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &2140216810
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2140216808}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 11.93, y: 3.43, z: 0}
+  m_LocalScale: {x: 17, y: 17, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
