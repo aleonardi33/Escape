@@ -44,13 +44,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="70" />
+          <entry key="cs" value="71" />
           <entry key="csv" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="70" />
+          <entry key="C#" value="71" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -88,27 +88,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Code/DiningRoomClosed.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1552302257141" expanded="false" signature="6:100" ph="..." />
-                <marker date="1552302257141" expanded="true" signature="147:4455" ph="{...}" />
-                <marker date="1552302257141" expanded="true" signature="828:2329" ph="{...}" />
-                <marker date="1552302257141" expanded="true" signature="2356:3898" ph="{...}" />
-                <marker date="1552302257141" expanded="true" signature="3230:3891" ph="{...}" />
-                <marker date="1552302257141" expanded="true" signature="3729:3881" ph="{...}" />
-                <marker date="1552302257141" expanded="true" signature="3928:4453" ph="{...}" />
-                <marker date="1552302257141" expanded="true" signature="3986:4447" ph="{...}" />
-                <marker date="1552302257141" expanded="true" signature="4022:4142" ph="{...}" />
-                <marker date="1552302257141" expanded="true" signature="4160:4437" ph="{...}" />
-                <marker date="1552302257141" expanded="true" signature="4211:4380" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/children-room code/c_doorclosed.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -152,11 +131,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Code/basementlightcontrol.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+            <state relative-caret-position="433">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
               <folding>
                 <marker date="1552314032300" expanded="false" signature="6:78" ph="..." />
                 <marker date="1552314032300" expanded="true" signature="129:1515" ph="{...}" />
@@ -164,6 +143,21 @@
                 <marker date="1552314032300" expanded="true" signature="431:1513" ph="{...}" />
                 <marker date="1552314032300" expanded="true" signature="491:542" ph="{...}" />
                 <marker date="1552314032300" expanded="true" signature="555:605" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Code/doorclosedfinal.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <marker date="1552302257152" expanded="false" signature="6:78" ph="..." />
+                <marker date="1552302257152" expanded="true" signature="124:580" ph="{...}" />
+                <marker date="1552302257152" expanded="true" signature="273:386" ph="{...}" />
+                <marker date="1552302257152" expanded="true" signature="447:578" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -487,12 +481,12 @@
       <workItem from="1552249560372" duration="3000" />
       <workItem from="1552253862377" duration="85000" />
       <workItem from="1552256544900" duration="3468000" />
-      <workItem from="1552310078358" duration="3152000" />
+      <workItem from="1552310078358" duration="3583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62257000" />
+    <option name="totallyTimeSpent" value="62688000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -651,13 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Code/doorclosedfinal.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -925,8 +912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Code/basementlightcontrol.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        <state relative-caret-position="433">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <marker date="1552314032300" expanded="false" signature="6:78" ph="..." />
             <marker date="1552314032300" expanded="true" signature="129:1515" ph="{...}" />
@@ -934,6 +921,19 @@
             <marker date="1552314032300" expanded="true" signature="431:1513" ph="{...}" />
             <marker date="1552314032300" expanded="true" signature="491:542" ph="{...}" />
             <marker date="1552314032300" expanded="true" signature="555:605" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Code/doorclosedfinal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1552302257152" expanded="false" signature="6:78" ph="..." />
+            <marker date="1552302257152" expanded="true" signature="124:580" ph="{...}" />
+            <marker date="1552302257152" expanded="true" signature="273:386" ph="{...}" />
+            <marker date="1552302257152" expanded="true" signature="447:578" ph="{...}" />
           </folding>
         </state>
       </provider>
