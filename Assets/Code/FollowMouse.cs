@@ -13,10 +13,6 @@ public class FollowMouse : MonoBehaviour
     private Sprite mysprite;
     //is the mouse set to the sprite
     private bool mouseset;
-    //width scale
-    //public float width;
-    //height scale
-    //public float height;
     //has the mouse moved
     private Vector3 mousemove;
    
@@ -34,8 +30,6 @@ public class FollowMouse : MonoBehaviour
         mouseset = false;
         ontarget = false;
         oldtarget = target;
-        //sprite.texture.width = (int)(sprite.texture.width*width);
-        //sprite.texture.height = (int) (sprite.texture.height * height);
     }
 
     private void OnMouseUp()
@@ -102,8 +96,6 @@ public class FollowMouse : MonoBehaviour
                 }
             }
         }
-        GameObject.FindObjectOfType<cursorcontroller>().GetComponent<cursorcontroller>()
-            .holdingsomething = mouseset;
     }
 
 }
