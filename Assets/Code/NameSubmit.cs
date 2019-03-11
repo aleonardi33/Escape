@@ -10,12 +10,15 @@ public class NameSubmit : MonoBehaviour
     private TextMeshProUGUI letter3;
     private GameObject timekeeper;
     string username;
+    private GameObject check;
 
     // Start is called before the first frame update
     void Start()
     {
         timekeeper = GameObject.FindGameObjectWithTag("stopwatch");
         gameObject.GetComponent<Button>().onClick.AddListener(sendName);
+        check = GameObject.Find("letterpad/check");
+        check.SetActive(false);
     }
 
     // Update is called once per frame
@@ -30,5 +33,6 @@ public class NameSubmit : MonoBehaviour
     {
         username = letter1.text + letter2.text + letter3.text;
         timekeeper.GetComponent<Timekeeper>().receiveName(username);
+        check.SetActive(true);
     }
 }
