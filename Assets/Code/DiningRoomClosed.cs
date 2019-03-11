@@ -108,6 +108,8 @@ public class DiningRoomClosed : MonoBehaviour
             s15.Open();
             //Debug.Log("Open");
             islocked = false;
+            transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().sprite =
+                Resources.Load<Sprite>("livingroomsprites/numpad");
             if (lastplayed != 1 && lastplayed != 3)
             {
                 audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/doorunlock"));
