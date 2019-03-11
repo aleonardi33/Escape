@@ -9,15 +9,16 @@ using System.Threading;
 using System.IO;
 using System;
 using System.Linq;
-public class DontDestroy : MonoBehaviour
+public class Timekeeper : MonoBehaviour
 {
+    string username = "AAA";
     Button startbutton;
     string filePath;//Path.GetFullPath("Assets/scores.csv");
     bool started = false;
     public static Stopwatch gameClock = new Stopwatch();
     TimeSpan elapsed;
     Scene activeScene;
-    int check = 0;
+    bool check = false;
     void Awake()
     {
         filePath = Application.dataPath + "/scores.csv";
@@ -36,17 +37,17 @@ public class DontDestroy : MonoBehaviour
                 started = true;
             }
         }
-        if ((activeScene.name == "GameOver" || activeScene.name == "Right") & check == 0)
+        if ((activeScene.name == "GameOver" || activeScene.name == "Right") & check == false)
         {
             gameClock.Stop();
             startbutton = GameObject.FindGameObjectWithTag("start").gameObject.GetComponent<Button>();
             startbutton.onClick.AddListener(Restart);
         }
-        if (activeScene.name == "Left" & check == 0)
+        if (activeScene.name == "Left" & check == false)
         {
             startbutton = GameObject.FindGameObjectWithTag("start").gameObject.GetComponent<Button>();
             startbutton.onClick.AddListener(Restart);
-            check++;
+            check=true;
             elapsed = gameClock.Elapsed;
             gameClock.Stop();
             float finTime = TimeSpanToFloat(elapsed);
@@ -85,7 +86,7 @@ public class DontDestroy : MonoBehaviour
     void Restart()
     {
         gameClock.Start();
-        check = 0;
+        check = false;
     }
 
 }
