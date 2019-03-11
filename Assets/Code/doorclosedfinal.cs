@@ -18,7 +18,13 @@ public class doorclosedfinal : MonoBehaviour
     // Update is called once per frame
     void OnMouseUp()
     {
-        audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/dooropening"));
-        opendoor.SetActive(true);
+        if (this.enabled == true)
+        {
+            audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/dooropening"));
+            opendoor.SetActive(true);
+            gameObject.GetComponent<BoxCollider2D>().enabled = false;
+            gameObject.GetComponent<SpriteRenderer>().enabled = false;
+            this.enabled = false;
+        }
     }
 }

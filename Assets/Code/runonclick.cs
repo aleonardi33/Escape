@@ -16,10 +16,12 @@ public class runonclick : MonoBehaviour
     private SpriteRenderer myren;
     public GameObject wasprotecting;
     public GameObject wasprotecting2;
+    public bool gotime;
     
     // Start is called before the first frame update
     void Start()
     {
+        gotime = false;
         mysprites = new Sprite[] {s1, s2, s3, s4, s5};
         clickedonme = false;
         if (gameObject.CompareTag("ChangeSpriteOnTarget"))
@@ -57,6 +59,7 @@ public class runonclick : MonoBehaviour
         
         else if(gameObject.CompareTag("OpenOnTarget"))
         {
+            gotime = true;
             transform.GetComponent<openclose>().enabled = true;
             transform.GetComponent<openclose>().isopen = true;
             myren.sprite = transform.GetComponent<openclose>().opensprite;

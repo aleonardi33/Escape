@@ -23,6 +23,7 @@
           <e p="DiningRoomClosed.cs" t="Include" />
           <e p="disableallcolliders.cs" t="Include" />
           <e p="disappear.cs" t="Include" />
+          <e p="dont_stop_music.cs" t="Include" />
           <e p="doorclosed.cs" t="Include" />
           <e p="doorclosedfinal.cs" t="Include" />
           <e p="ElevatorClosed.cs" t="Include" />
@@ -42,6 +43,7 @@
           <e p="NameSubmit.cs" t="Include" />
           <e p="numpad.cs" t="Include" />
           <e p="openclose.cs" t="Include" />
+          <e p="ovenearlyopen.cs" t="Include" />
           <e p="PatternPad.cs" t="Include" />
           <e p="patternpadlarge.cs" t="Include" />
           <e p="RepeatingBackground.cs" t="Include" />
