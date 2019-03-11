@@ -1477,7 +1477,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c99bb6a9b6c1478188c693cf1effd87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audclp: {fileID: 0}
+  audclp: {fileID: 8300000, guid: 5da14add4656b4719af08ee10dcc9301, type: 3}
 --- !u!82 &873010862
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1496,7 +1496,7 @@ AudioSource:
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 256
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
