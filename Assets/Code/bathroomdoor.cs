@@ -34,6 +34,7 @@ public class bathroomdoor : MonoBehaviour
 		if (!mykey.activeSelf && islocked && GameObject.Find("sink").GetComponent<SpriteRenderer>().sprite.name == "sinkopen")
 		{
 			islocked = false;
+			GameObject.Find("doorlock").SetActive(false);
 			audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/doorunlock"));
 		}
 		else
