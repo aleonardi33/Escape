@@ -14,6 +14,15 @@ TagManager:
   - DestroyOnTarget
   - door
   - stayopen
+  - start
+  - youchosewrong
+  - noescape
+  - shadow
+  - d1
+  - d2
+  - d3
+  - d4
+  - d5
   layers:
   - Default
   - TransparentFX
