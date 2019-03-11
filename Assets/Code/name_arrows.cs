@@ -23,7 +23,6 @@ public class name_arrows : MonoBehaviour
 		}
 		else
 		{
-			Debug.Log("neither uparrow nor downarrow");
 			inc = true;
 		}
 

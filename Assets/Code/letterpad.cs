@@ -3,23 +3,23 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using TMPro;
 public class letterpad : MonoBehaviour
 {
-    public Text letter1;
-    public Text letter2;
-    public Text letter3;
+    public GameObject l1;
+    public GameObject l2;
+    public GameObject l3;
+    private TextMeshProUGUI letter1;
+    private TextMeshProUGUI letter2;
+    private TextMeshProUGUI letter3;
 
     string[] alpha = { "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z" };
     // Use this for initialization
     void Start()
     {
-        letter1.text = "A";
-        letter2.text = "A";
-        letter3.text = "A";
-        letter1.gameObject.SetActive(true);
-        letter2.gameObject.SetActive(true);
-        letter3.gameObject.SetActive(true);
+        letter1 = l1.GetComponent<TextMeshProUGUI>();
+        letter2 = l2.GetComponent<TextMeshProUGUI>();
+        letter3 = l3.GetComponent<TextMeshProUGUI>();
     }
 
     // Update is called once per frame
@@ -29,7 +29,7 @@ public class letterpad : MonoBehaviour
 
     public void updateLetter(int whichtext, bool isincrement)
     {
-        Text txt;
+        TextMeshProUGUI txt;
         if (whichtext == 1)
         {
             txt = letter1;
@@ -65,6 +65,6 @@ public class letterpad : MonoBehaviour
             letter = alpha[num];
         }
         txt.text = letter;
-//        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("SoundEffects/buttontap"));
+        //        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("SoundEffects/buttontap"));
     }
 }

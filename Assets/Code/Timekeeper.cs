@@ -10,6 +10,7 @@ using System.IO;
 using System;
 using System.Linq;
 using Debug = UnityEngine.Debug;
+using TMPro;
 public class Timekeeper : MonoBehaviour
 {
     string username = "AAA";
@@ -23,6 +24,11 @@ public class Timekeeper : MonoBehaviour
     void Awake()
     {
         filePath = Application.dataPath + "/scores.csv";
+        if (File.Exists(filePath) == false)
+        {
+            string[] init_csv = { "Time, Username", "999.999,AAA", "999.999,ABA", "999.999,ABC" };
+            File.WriteAllLines(filePath, init_csv);
+        }
         GameObject[] objs = GameObject.FindGameObjectsWithTag("stopwatch");
         DontDestroyOnLoad(this.gameObject);
     }
@@ -46,7 +52,6 @@ public class Timekeeper : MonoBehaviour
         }
         if (activeScene.name == "Left" & gameEnded == false)
         {
-            Debug.Log("win");
             elapsed = gameClock.Elapsed;
             gameClock.Stop();
             startbutton = GameObject.FindGameObjectWithTag("start").gameObject.GetComponent<Button>();
@@ -56,11 +61,42 @@ public class Timekeeper : MonoBehaviour
             string append = (Math.Round(finTime, 3)).ToString() + "," + username + "\n";
             AppendToCsv(append);
             string[] top_scores = ReadCsv();
-            
-            if (top_scores.Contains(append)==false)
+            int currplayer_place = Array.IndexOf(top_scores, (Math.Round(finTime, 3)).ToString() + "," + username);
+            TextMeshProUGUI fp = GameObject.Find("first player").GetComponent<TextMeshProUGUI>();
+            TextMeshProUGUI sp = GameObject.Find("second player").GetComponent<TextMeshProUGUI>();
+            TextMeshProUGUI tp = GameObject.Find("third player").GetComponent<TextMeshProUGUI>();
+            TextMeshProUGUI ft = GameObject.Find("first time").GetComponent<TextMeshProUGUI>();
+            TextMeshProUGUI st = GameObject.Find("second time").GetComponent<TextMeshProUGUI>();
+            TextMeshProUGUI tt = GameObject.Find("third time").GetComponent<TextMeshProUGUI>();
+            TextMeshProUGUI cp = GameObject.Find("currplayer").GetComponent<TextMeshProUGUI>();
+            for (int j = 0; j < 3; j++)
             {
-
+                string info = top_scores[j];
+                string pl_time = info.Split(',')[0];
+                string pl_name = info.Split(',')[1];
+                if (j == 0)
+                {
+                    fp.text = pl_name;
+                    ft.text = pl_time + "s";
+                }
+                if (j == 1)
+                {
+                    sp.text = pl_name;
+                    st.text = pl_time + "s";
+                }
+                if (j == 2)
+                {
+                    tp.text = pl_name;
+                    tt.text = pl_time + "s";
+                }
             }
+            string cp_info = top_scores[currplayer_place];
+            string cp_time = cp_info.Split(',')[0];
+            cp.text = "You escaped in " + cp_time + "s and came in " + suffix(currplayer_place + 1) + " place!";
+
+
+
+
         }
     }
     float TimeSpanToFloat(TimeSpan e)
@@ -78,11 +114,7 @@ public class Timekeeper : MonoBehaviour
     string[] ReadCsv()
     {
         string[] lines = File.ReadAllLines(filePath);
-        string[] ret = { };
-        for (int i = 1; i <= 3; i++)
-        {
-            ret[i] = lines[i];
-        }
+        string[] ret = new string[lines.Length - 1];
         var data = lines.Skip(1);
         var sorted = data.Select(line => new
         {
@@ -93,6 +125,10 @@ public class Timekeeper : MonoBehaviour
                     .Select(x => x.Line);
 
         File.WriteAllLines(filePath, (lines.Take(1).Concat(sorted)).ToArray());
+        for (int i = 0; i < lines.Length - 1; i++)
+        {
+            ret[i] = sorted.ElementAt(i);
+        }
         return ret;
     }
     void Restart()
@@ -103,7 +139,26 @@ public class Timekeeper : MonoBehaviour
     public void receiveName(string name)
     {
         username = name;
-        Debug.Log(username);
+    }
+
+    public string suffix(int place)
+    {
+        string place_string = place.ToString();
+        int j = place % 10,
+            k = place % 100;
+        if (j == 1 && k != 11)
+        {
+            return place_string + "st";
+        }
+        if (j == 2 && k != 12)
+        {
+            return place_string + "nd";
+        }
+        if (j == 3 && k != 13)
+        {
+            return place_string + "rd";
+        }
+        return place_string + "th";
     }
 
 }

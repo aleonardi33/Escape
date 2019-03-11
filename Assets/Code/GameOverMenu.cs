@@ -8,10 +8,10 @@ public class GameOverMenu : MonoBehaviour
 {
     private void Start()
     {
-        var startbutton = transform.Find("Buttons/Start").gameObject.GetComponent<Button>();
+        var startbutton = GameObject.FindGameObjectWithTag("start").gameObject.GetComponent<Button>();
         startbutton.onClick.AddListener(() => ReturnToMain());
 
-        var quitbutton = transform.Find("Buttons/Quit").gameObject.GetComponent<Button>();
+        var quitbutton = GameObject.FindGameObjectWithTag("quit").gameObject.GetComponent<Button>();
         quitbutton.onClick.AddListener(QuitGame);
     }
     private static void ReturnToMain()

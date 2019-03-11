@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using TMPro;
 public class NameSubmit : MonoBehaviour
 {
-    private Text letter1;
-    private Text letter2;
-    private Text letter3;
+    private TextMeshProUGUI letter1;
+    private TextMeshProUGUI letter2;
+    private TextMeshProUGUI letter3;
     private GameObject timekeeper;
     string username;
 
@@ -21,14 +21,13 @@ public class NameSubmit : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        letter1 = transform.parent.GetChild(0).GetComponent<Text>();
-        letter2 = transform.parent.GetChild(1).GetComponent<Text>();
-        letter3 = transform.parent.GetChild(2).GetComponent<Text>();
+        letter1 = transform.parent.GetChild(0).GetComponent<TextMeshProUGUI>();
+        letter2 = transform.parent.GetChild(1).GetComponent<TextMeshProUGUI>();
+        letter3 = transform.parent.GetChild(2).GetComponent<TextMeshProUGUI>();
     }
 
     public void sendName()
     {
-        Debug.Log("hi");
         username = letter1.text + letter2.text + letter3.text;
         timekeeper.GetComponent<Timekeeper>().receiveName(username);
     }

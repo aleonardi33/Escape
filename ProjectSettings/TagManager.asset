@@ -23,6 +23,11 @@ TagManager:
   - d3
   - d4
   - d5
+  - stopwatch
+  - quit
+  - letter1
+  - letter2
+  - letter3
   layers:
   - Default
   - TransparentFX
