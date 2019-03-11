@@ -38,4 +38,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Left.unity
     guid: b5acc2d986f8d40bab51ab25b17189df
+  - enabled: 1
+    path: Assets/Scenes/Right.unity
+    guid: 336618eed930046989e58a887c5e9515
+  - enabled: 1
+    path: Assets/Scenes/Left.unity
+    guid: b5acc2d986f8d40bab51ab25b17189df
   m_configObjects: {}

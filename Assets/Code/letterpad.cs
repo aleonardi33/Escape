@@ -48,7 +48,7 @@ public class letterpad : MonoBehaviour
         if (isincrement)
         {
             num += 1;
-            
+
             if (num > 25)
             {
                 num = 0;
@@ -64,7 +64,7 @@ public class letterpad : MonoBehaviour
             }
             letter = alpha[num];
         }
-        txt.text = num.ToString();
-        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("SoundEffects/buttontap"));
+        txt.text = letter;
+//        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("SoundEffects/buttontap"));
     }
 }

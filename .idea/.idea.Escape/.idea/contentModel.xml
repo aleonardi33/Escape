@@ -7,6 +7,8 @@
       <e p="Assets" t="Include">
         <e p="Code" t="Include">
           <e p="arrow.cs" t="Include" />
+          <e p="basementcounterpart.cs" t="Include" />
+          <e p="basementlightcontrol.cs" t="Include" />
           <e p="bathroomdoor.cs" t="Include" />
           <e p="ChangeColor.cs" t="Include" />
           <e p="changemouseonme.cs" t="Include" />
@@ -21,8 +23,11 @@
           <e p="DiningRoomClosed.cs" t="Include" />
           <e p="disableallcolliders.cs" t="Include" />
           <e p="disappear.cs" t="Include" />
+<<<<<<< HEAD
           <e p="dont_stop_music.cs" t="Include" />
           <e p="DontDestroy.cs" t="Include" />
+=======
+>>>>>>> 32ee8b83787516632f0bba1ebcc1b820202b7d2e
           <e p="doorclosed.cs" t="Include" />
           <e p="doorclosedfinal.cs" t="Include" />
           <e p="ElevatorClosed.cs" t="Include" />
@@ -38,6 +43,8 @@
           <e p="mousetarget.cs" t="Include" />
           <e p="moveright.cs" t="Include" />
           <e p="MoveRoom.cs" t="Include" />
+          <e p="name_arrows.cs" t="Include" />
+          <e p="NameSubmit.cs" t="Include" />
           <e p="numpad.cs" t="Include" />
           <e p="openclose.cs" t="Include" />
           <e p="PatternPad.cs" t="Include" />
@@ -50,6 +57,7 @@
           <e p="ScrollingObject.cs" t="Include" />
           <e p="showinside.cs" t="Include" />
           <e p="sinkcontroller.cs" t="Include" />
+          <e p="Timekeeper.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
         </e>
         <e p="Plugins" t="Include">
