@@ -9,6 +9,7 @@ using System.Threading;
 using System.IO;
 using System;
 using System.Linq;
+using Debug = UnityEngine.Debug;
 public class Timekeeper : MonoBehaviour
 {
     string username = "AAA";
@@ -18,7 +19,7 @@ public class Timekeeper : MonoBehaviour
     public static Stopwatch gameClock = new Stopwatch();
     TimeSpan elapsed;
     Scene activeScene;
-    bool check = false;
+    bool gameEnded = false;
     void Awake()
     {
         filePath = Application.dataPath + "/scores.csv";
@@ -27,7 +28,6 @@ public class Timekeeper : MonoBehaviour
     }
     void Update()
     {
-        UnityEngine.Debug.Log(filePath);
         activeScene = SceneManager.GetActiveScene();
         if (activeScene.name == "Bathroom")
         {
@@ -37,19 +37,21 @@ public class Timekeeper : MonoBehaviour
                 started = true;
             }
         }
-        if ((activeScene.name == "GameOver" || activeScene.name == "Right") & check == false)
+        if ((activeScene.name == "GameOver" || activeScene.name == "Right") & gameEnded == false)
         {
             gameClock.Stop();
+            gameEnded = true;
             startbutton = GameObject.FindGameObjectWithTag("start").gameObject.GetComponent<Button>();
             startbutton.onClick.AddListener(Restart);
         }
-        if (activeScene.name == "Left" & check == false)
+        if (activeScene.name == "Left" & gameEnded == false)
         {
-            startbutton = GameObject.FindGameObjectWithTag("start").gameObject.GetComponent<Button>();
-            startbutton.onClick.AddListener(Restart);
-            check=true;
+            Debug.Log("win");
             elapsed = gameClock.Elapsed;
             gameClock.Stop();
+            startbutton = GameObject.FindGameObjectWithTag("start").gameObject.GetComponent<Button>();
+            startbutton.onClick.AddListener(Restart);
+            gameEnded = true;
             float finTime = TimeSpanToFloat(elapsed);
             AppendToCsv(finTime);
             ReadCsv();
@@ -63,7 +65,7 @@ public class Timekeeper : MonoBehaviour
     }
     void AppendToCsv(float gameTime)
     {
-        string append = (Math.Round(gameTime, 3)).ToString() + ",TCR\n";
+        string append = (Math.Round(gameTime, 3)).ToString() + ","+ username + "\n";
         //implement username maker at beginning of the game
         //implement scrolling scoreboard from reading CSV
         File.AppendAllText(filePath, append);
@@ -79,14 +81,17 @@ public class Timekeeper : MonoBehaviour
         })
                     .OrderBy(x => x.SortKey)
                     .Select(x => x.Line);
-        //UnityEngine.Debug.Log(lines.Take(1));
 
         File.WriteAllLines(filePath, (lines.Take(1).Concat(sorted)).ToArray());
     }
     void Restart()
     {
-        gameClock.Start();
-        check = false;
+        gameEnded = false;
+        started = false;
+    }
+    public void receiveName(string name){
+        username = name;
+        Debug.Log(username);
     }
 
 }

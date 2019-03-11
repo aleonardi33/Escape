@@ -65,6 +65,6 @@ public class letterpad : MonoBehaviour
             letter = alpha[num];
         }
         txt.text = letter;
-        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("SoundEffects/buttontap"));
+//        GetComponent<AudioSource>().PlayOneShot(Resources.Load<AudioClip>("SoundEffects/buttontap"));
     }
 }

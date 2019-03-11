@@ -44,7 +44,6 @@ public class name_arrows : MonoBehaviour
 
 	void OnMouseUp()
 	{
-        Debug.Log("HULLO");
 		letterpad.GetComponent<letterpad>().updateLetter(arrownum, inc);
 	}
 }
