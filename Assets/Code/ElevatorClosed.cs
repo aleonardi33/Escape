@@ -36,9 +36,9 @@ public class ElevatorClosed : MonoBehaviour
         {
             islocked = false;
             transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().sprite =
-                (Sprite)Resources.Load<Sprite>("Room1Sprites/numpad");
+                (Sprite)Resources.Load<Sprite>("livingroomsprites/numpad");
             numpadlarge.gameObject.GetComponent<SpriteRenderer>().sprite =
-                (Sprite)Resources.Load<Sprite>("Room1Sprites/numpadclose");
+                (Sprite)Resources.Load<Sprite>("livingroomsprites/numpadclose");
             if (lastplayed != 1 && lastplayed != 3)
             {
                 audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/doorunlock"));
@@ -49,9 +49,9 @@ public class ElevatorClosed : MonoBehaviour
         {
             islocked = true;
             transform.GetChild(1).gameObject.GetComponent<SpriteRenderer>().sprite =
-                Resources.Load<Sprite>("Room1Sprites/numpadlocked");
+                Resources.Load<Sprite>("livingroomsprites/numpadlocked");
             numpadlarge.gameObject.GetComponent<SpriteRenderer>().sprite =
-                Resources.Load<Sprite>("Room1Sprites/numpadcloselocked");
+                Resources.Load<Sprite>("livingroomsprites/numpadcloselocked");
             if (lastplayed != 2)
             {
                 audiosrc.PlayOneShot(Resources.Load<AudioClip>("SoundEffects/doorlock"));
