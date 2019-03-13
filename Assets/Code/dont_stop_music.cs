@@ -22,7 +22,7 @@ public class dont_stop_music : MonoBehaviour{
 
     private void Update()
     {
-        if ((SceneManager.GetActiveScene().name == "Final Room"||SceneManager.GetActiveScene().name=="Right")&&song==true)
+        if ((SceneManager.GetActiveScene().name == "FInal ROom"||SceneManager.GetActiveScene().name=="Right")&&song==true)
         {
             print("load scary");
             audclp = Resources.Load<AudioClip>("Escape Song Scary");
@@ -30,7 +30,7 @@ public class dont_stop_music : MonoBehaviour{
             play = true;
         }
 
-        if ((SceneManager.GetActiveScene().name == "Main Menu" || SceneManager.GetActiveScene().name == "Left") &&
+        else if ((SceneManager.GetActiveScene().name == "Main Menu" || SceneManager.GetActiveScene().name == "Left") &&
             song == false)
         {
             audclp = Resources.Load<AudioClip>("Escape Normal_1");

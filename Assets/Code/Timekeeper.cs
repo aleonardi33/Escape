@@ -26,7 +26,7 @@ public class Timekeeper : MonoBehaviour
         filePath = Application.dataPath + "/scores.csv";
         if (File.Exists(filePath) == false)
         {
-            string[] init_csv = { "Time, Username", "999.999,AAA", "999.999,ABA", "999.999,ABC" };
+            string[] init_csv = { "Time, Username", "999.999,AAA", "999.999,AAB", "999.999,AAC", "999.999,AAD" };
             File.WriteAllLines(filePath, init_csv);
         }
         GameObject[] objs = GameObject.FindGameObjectsWithTag("stopwatch");
@@ -43,7 +43,7 @@ public class Timekeeper : MonoBehaviour
                 started = true;
             }
         }
-        if ((activeScene.name == "GameOver" || activeScene.name == "Right") & gameEnded == false)
+        if (activeScene.name == "Right" & gameEnded == false)
         {
             gameClock.Stop();
             gameEnded = true;
@@ -107,8 +107,6 @@ public class Timekeeper : MonoBehaviour
     }
     void AppendToCsv(string append)
     {
-        //implement username maker at beginning of the game
-        //implement scrolling scoreboard from reading CSV
         File.AppendAllText(filePath, append);
     }
     string[] ReadCsv()

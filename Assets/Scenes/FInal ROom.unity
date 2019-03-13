@@ -661,7 +661,6 @@ GameObject:
   - component: {fileID: 1217666868}
   - component: {fileID: 1217666867}
   - component: {fileID: 1217666866}
-  - component: {fileID: 1217666865}
   - component: {fileID: 1217666869}
   m_Layer: 0
   m_Name: dooropenright
@@ -684,18 +683,6 @@ Transform:
   m_Father: {fileID: 392813210}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1217666865
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1217666863}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 214fe6f07b3344f1b9d24c6a3eab6456, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1217666866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -815,7 +802,6 @@ GameObject:
   - component: {fileID: 1256074077}
   - component: {fileID: 1256074076}
   - component: {fileID: 1256074075}
-  - component: {fileID: 1256074074}
   - component: {fileID: 1256074078}
   m_Layer: 0
   m_Name: dooropenleft
@@ -838,18 +824,6 @@ Transform:
   m_Father: {fileID: 1646971005}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1256074074
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1256074072}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 214fe6f07b3344f1b9d24c6a3eab6456, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1256074075
 MonoBehaviour:
   m_ObjectHideFlags: 0
