@@ -34,6 +34,10 @@ public class Timekeeper : MonoBehaviour
     }
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            QuitGame();
+        }
         activeScene = SceneManager.GetActiveScene();
         if (activeScene.name == "Bathroom")
         {
@@ -159,4 +163,13 @@ public class Timekeeper : MonoBehaviour
         return place_string + "th";
     }
 
+
+    private static void QuitGame()
+    {
+        Application.Quit();
+
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#endif
+    }
 }
